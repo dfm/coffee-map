@@ -1,0 +1,62 @@
+body {
+  background: #fcfcfa;
+  font-size: 14px;
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
+  color: #222;
+}
+
+#figure {
+  text-align: center;
+}
+
+#figure svg {
+  border: 1px solid #333;
+  background: #fff;
+}
+
+.overlay {
+  fill: none;
+  pointer-events: all;
+}
+
+.borough {
+  fill: #ddd;
+  stroke: #888;
+  stroke-width: .5px;
+  stroke-linejoin: round;
+  stroke-linecap: round;
+}
+
+.station {
+  fill: #ddd;
+  stroke: #444;
+  stroke-width: 1px;
+  z-index: -1;
+}
+
+.label {
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
+  color: #333;
+  text-transform: uppercase;
+  font-size: 9px;
+}
+
+.line {
+  fill: none;
+  stroke: #ccc;
+  stroke-width: 2.5px;
+  stroke-linejoin: round;
+  stroke-linecap: round;
+}
+
+.line.lA, .line.lC, .line.lE { stroke: #2850AD; }
+.line.lB, .line.lD, .line.lF, .line.lM { stroke: #FF6319; }
+.line.lG { stroke: #6CBE45; }
+.line.lJ, .line.lZ { stroke: #996633; }
+.line.lL { stroke: #A7A9AC; }
+.line.lN, .line.lR, .line.lQ { stroke: #FCCC0A; }
+.line.lS, .line.lFS { stroke: #808183; }
+.line.l1, .line.l2, .line.l3 { stroke: #EE352E; }
+.line.l4, .line.l5, .line.l6 { stroke: #00933C; }
+.line.l7 { stroke: #B933AD; }
+.line.lSI { stroke: #0055A7; }
