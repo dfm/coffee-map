@@ -1,1 +1,4178 @@
-[{"latlng": [-73.985942, 40.69218], "lines": "A C F R", "name": "Lawrence St"}, {"latlng": [-73.94067, 40.711926], "lines": "L", "name": "Grand St"}, {"latlng": [-73.902447, 40.663515], "lines": "3", "name": "Junius St"}, {"latlng": [-74.002906, 40.733422], "lines": "1", "name": "Christopher St"}, {"latlng": [-73.8627, 40.749865], "lines": "7", "name": "103rd St"}, {"latlng": [-73.962246, 40.661614], "lines": "B Q FS", "name": "Prospect Park"}, {"latlng": [-73.950683, 40.667883], "lines": "2 5", "name": "President St"}, {"latlng": [-73.97641, 40.775594], "lines": "B C", "name": "72nd St"}, {"latlng": [-73.883697, 40.747659], "lines": "7", "name": "82nd St-Jackson Heights"}, {"latlng": [-73.903097, 40.675345], "lines": "L", "name": "Atlantic Av"}, {"latlng": [-73.97881, 40.683666], "lines": "B Q D N R 2 3 4 5", "name": "Pacific St"}, {"latlng": [-73.901034, 40.862803], "lines": "4", "name": "Fordham Rd"}, {"latlng": [-73.861604, 40.729846], "lines": "M R", "name": "63rd Drive-Rego Park"}, {"latlng": [-73.801109, 40.702147], "lines": "E J Z", "name": "Parsons Blvd-Archer Av - Jamaica Center"}, {"latlng": [-73.986754, 40.754672], "lines": "A C E N Q R S 1 2 3", "name": "Times Square-42nd St"}, {"latlng": [-73.867139, 40.691324], "lines": "J Z", "name": "Elderts Lane-75th St"}, {"latlng": [-74.006886, 40.719318], "lines": "1", "name": "Franklin St"}, {"latlng": [-73.761353, 40.600066], "lines": "A", "name": "Beach 25th St"}, {"latlng": [-73.950426, 40.680438], "lines": "A C", "name": "Nostrand Av"}, {"latlng": [-73.874516, 40.829521], "lines": "6", "name": "Morrison Av-Soundview Av"}, {"latlng": [-73.884639, 40.679947], "lines": "J", "name": "Cleveland St"}, {"latlng": [-73.924016, 40.743781], "lines": "7", "name": "Lowery St-40th St"}, {"latlng": [-73.837324, 40.718331], "lines": "E F", "name": "75th Av"}, {"latlng": [-73.91924, 40.807566], "lines": "6", "name": "Brook Av"}, {"latlng": [-73.941617, 40.798629], "lines": "6", "name": "116th St"}, {"latlng": [-73.907657, 40.808719], "lines": "6", "name": "East 143rd St-St Mary's St"}, {"latlng": [-73.87255, 40.689941], "lines": "J", "name": "Cypress Hills"}, {"latlng": [-73.973946, 40.686113], "lines": "C", "name": "Lafayette Av"}, {"latlng": [-74.011719, 40.635064], "lines": "N", "name": "8th Av"}, {"latlng": [-73.825798, 40.685951], "lines": "A", "name": "Lefferts Blvd"}, {"latlng": [-73.884079, 40.666235], "lines": "3", "name": "New Lots Av"}, {"latlng": [-73.985001, 40.688484], "lines": "A C G", "name": "Hoyt & Schermerhorn"}, {"latlng": [-73.97745, 40.763972], "lines": "F", "name": "57th St"}, {"latlng": [-73.94425, 40.79502], "lines": "6", "name": "110th St"}, {"latlng": [-73.940858, 40.679921], "lines": "A C", "name": "Kingston-Throop"}, {"latlng": [-73.994791, 40.63626], "lines": "D", "name": "50th St"}, {"latlng": [-74.028398, 40.622687], "lines": "R", "name": "86th St"}, {"latlng": [-74.009266, 40.715478], "lines": "1 2 3", "name": "Chambers St"}, {"latlng": [-73.981637, 40.762862], "lines": "B D E", "name": "7th Av"}, {"latlng": [-73.843853, 40.680429], "lines": "A", "name": "Rockaway Blvd"}, {"latlng": [-73.951418, 40.712792], "lines": "G L", "name": "Metropolitan Av"}, {"latlng": [-73.869229, 40.733106], "lines": "M R", "name": "Woodhaven Blvd"}, {"latlng": [-73.979917, 40.783934], "lines": "1", "name": "79th St"}, {"latlng": [-73.930997, 40.744587], "lines": "7", "name": "Rawson St-33rd St"}, {"latlng": [-73.94489, 40.834041], "lines": "1", "name": "157th St"}, {"latlng": [-73.857473, 40.893193], "lines": "2 5", "name": "233rd St"}, {"latlng": [-73.916559, 40.68637], "lines": "J", "name": "Halsey St"}, {"latlng": [-73.878855, 40.874811], "lines": "D", "name": "Norwood-205th St"}, {"latlng": [-73.96411, 40.807722], "lines": "1", "name": "116th St-Columbia University"}, {"latlng": [-73.899232, 40.658733], "lines": "L", "name": "New Lots Av"}, {"latlng": [-73.816859, 40.702566], "lines": "E", "name": "Jamaica-Van Wyck"}, {"latlng": [-73.913333, 40.756312], "lines": "M R", "name": "46th St"}, {"latlng": [-73.904046, 40.688764], "lines": "L", "name": "Wilson Av"}, {"latlng": [-73.92074, 40.756879], "lines": "M R", "name": "Steinway St"}, {"latlng": [-73.845625, 40.754622], "lines": "7", "name": "Mets - Willets Point"}, {"latlng": [-73.950308, 40.706092], "lines": "G", "name": "Broadway"}, {"latlng": [-73.895877, 40.706186], "lines": "M", "name": "Fresh Pond Rd"}, {"latlng": [-73.975098, 40.680829], "lines": "2 3", "name": "Bergen St"}, {"latlng": [-73.974574, 40.581011], "lines": "F", "name": "Neptune Av-Van Siclen"}, {"latlng": [-73.964375, 40.671987], "lines": "2 3", "name": "Eastern Parkway-Brooklyn Museum"}, {"latlng": [-73.852719, 40.726523], "lines": "M R", "name": "67th Av"}, {"latlng": [-73.896403, 40.746325], "lines": "7", "name": "Fisk Av-69th St"}, {"latlng": [-74.014065, 40.704817], "lines": "4 5", "name": "Bowling Green"}, {"latlng": [-73.995048, 40.680303], "lines": "F G", "name": "Carroll St"}, {"latlng": [-74.003739, 40.726227], "lines": "C E", "name": "Spring St"}, {"latlng": [-73.96007, 40.688873], "lines": "G", "name": "Classon Av"}, {"latlng": [-73.975224, 40.760167], "lines": "E M", "name": "5th Av-53rd St"}, {"latlng": [-73.964492, 40.644031], "lines": "B Q", "name": "Beverly Rd"}, {"latlng": [-73.95107, 40.785672], "lines": "6", "name": "96th St"}, {"latlng": [-73.918435, 40.743132], "lines": "7", "name": "Bliss St-46th St"}, {"latlng": [-73.939892, 40.836013], "lines": "C", "name": "163rd St - Amsterdam Av"}, {"latlng": [-73.880039, 40.68141], "lines": "J Z", "name": "Norwood Av"}, {"latlng": [-73.97823, 40.592721], "lines": "N", "name": "86th St"}, {"latlng": [-73.989779, 40.670272], "lines": "F", "name": "4th Av"}, {"latlng": [-73.880049, 40.840295], "lines": "2 5", "name": "East Tremont Av-West Farms Sq"}, {"latlng": [-73.965838, 40.683263], "lines": "C", "name": "Clinton & Washington Avs"}, {"latlng": [-73.846384, 40.869526], "lines": "5", "name": "Gun Hill Rd"}, {"latlng": [-73.832569, 40.84681], "lines": "6", "name": "Buhre Av"}, {"latlng": [-73.979493, 40.660365], "lines": "F", "name": "Prospect Park-15 St"}, {"latlng": [-73.898453, 40.749669], "lines": "M R", "name": "65th St"}, {"latlng": [-73.891688, 40.678024], "lines": "J Z", "name": "Van Siclen Av"}, {"latlng": [-73.868457, 40.848828], "lines": "2 5", "name": "Bronx Park East"}, {"latlng": [-73.793604, 40.71047], "lines": "F", "name": "169th St"}, {"latlng": [-73.910136, 40.8459], "lines": "B D", "name": "174-175th Sts"}, {"latlng": [-73.907807, 40.81649], "lines": "2 5", "name": "Jackson Av"}, {"latlng": [-73.996209, 40.738228], "lines": "F L M 1 2 3", "name": "14th St"}, {"latlng": [-73.984569, 40.754222], "lines": "B D F M 7", "name": "42nd St"}, {"latlng": [-73.900741, 40.856093], "lines": "B D", "name": "182nd-183rd Sts"}, {"latlng": [-73.954449, 40.731352], "lines": "G", "name": "Greenpoint Av"}, {"latlng": [-73.98197, 40.778453], "lines": "1 2 3", "name": "72nd St"}, {"latlng": [-74.0091, 40.706821], "lines": "2 3", "name": "Wall St"}, {"latlng": [-73.84433, 40.695178], "lines": "J Z", "name": "104th St-102nd St"}, {"latlng": [-73.844521, 40.721691], "lines": "E F M R", "name": "Forest Hills-71st Av"}, {"latlng": [-73.94077, 40.814229], "lines": "2 3", "name": "135th St"}, {"latlng": [-73.917757, 40.816109], "lines": "2 5", "name": "149th St-3rd Av"}, {"latlng": [-73.989938, 40.723402], "lines": "F", "name": "2nd Av"}, {"latlng": [-73.928781, 40.752039], "lines": "M R", "name": "36th St"}, {"latlng": [-73.942836, 40.754203], "lines": "F", "name": "21st St"}, {"latlng": [-73.903077, 40.704423], "lines": "M", "name": "Forest Av"}, {"latlng": [-73.939561, 40.840719], "lines": "A C", "name": "168th St - Washington Heights"}, {"latlng": [-73.958372, 40.815581], "lines": "1", "name": "125th St"}, {"latlng": [-73.990414, 40.620671], "lines": "N", "name": "18th Av"}, {"latlng": [-74.006978, 40.713282], "lines": "R", "name": "City Hall"}, {"latlng": [-74.030876, 40.616622], "lines": "R", "name": "95th St"}, {"latlng": [-73.99073, 40.734789], "lines": "L N Q R 4 5 6", "name": "Union Square"}, {"latlng": [-73.968501, 40.576312], "lines": "Q", "name": "Ocean Parkway"}, {"latlng": [-73.981233, 40.577422], "lines": "D F N Q", "name": "Stillwell Av"}, {"latlng": [-73.964699, 40.791646], "lines": "B C", "name": "96th St"}, {"latlng": [-73.99107, 40.730054], "lines": "6", "name": "Astor Place"}, {"latlng": [-73.893509, 40.866978], "lines": "B D", "name": "Kingsbridge Rd"}, {"latlng": [-73.85147, 40.679843], "lines": "A", "name": "88th St-Boyd Av"}, {"latlng": [-73.996895, 40.626472], "lines": "D N", "name": "62nd St"}, {"latlng": [-73.952343, 40.811109], "lines": "A B C D", "name": "125th St"}, {"latlng": [-73.940202, 40.750582], "lines": "N Q 7", "name": "Queensboro Plaza"}, {"latlng": [-73.998091, 40.660397], "lines": "R", "name": "25th St"}, {"latlng": [-73.961454, 40.796092], "lines": "B C", "name": "103rd St"}, {"latlng": [-73.981848, 40.611815], "lines": "N", "name": "Bay Parkway-22nd Av"}, {"latlng": [-73.97689, 40.68446], "lines": "B Q D N R 2 3 4 5", "name": "Atlantic Av"}, {"latlng": [-73.985984, 40.762456], "lines": "C E", "name": "50th St"}, {"latlng": [-73.947478, 40.7906], "lines": "6", "name": "103rd St"}, {"latlng": [-73.987823, 40.749719], "lines": "B D F M N Q R", "name": "34th St"}, {"latlng": [-73.987437, 40.718315], "lines": "F J M Z", "name": "Essex St"}, {"latlng": [-73.977666, 40.684359], "lines": "B D N Q R 2 3 4 5", "name": "Atlantic Av-Barclays Ctr"}, {"latlng": [-73.949575, 40.650843], "lines": "2 5", "name": "Church Av"}, {"latlng": [-73.90774, 40.702762], "lines": "M", "name": "Seneca Av"}, {"latlng": [-73.986122, 40.732849], "lines": "L", "name": "3rd Av"}, {"latlng": [-73.930729, 40.679364], "lines": "A C", "name": "Utica Av"}, {"latlng": [-73.927397, 40.697857], "lines": "M", "name": "Central Av"}, {"latlng": [-73.904098, 40.812118], "lines": "6", "name": "East 149th St"}, {"latlng": [-73.882017, 40.742454], "lines": "M R", "name": "Elmhurst Av"}, {"latlng": [-73.873488, 40.841894], "lines": "2 5", "name": "East 180th St"}, {"latlng": [-73.945264, 40.747023], "lines": "E G M 7", "name": "45 Rd-Court House Sq"}, {"latlng": [-73.998168, 40.604556], "lines": "D", "name": "20th Av"}, {"latlng": [-73.993086, 40.697466], "lines": "2 3", "name": "Clark St"}, {"latlng": [-73.949724, 40.744065], "lines": "G", "name": "21st St"}, {"latlng": [-73.957757, 40.708359], "lines": "J M Z", "name": "Marcy Av"}, {"latlng": [-73.981736, 40.768296], "lines": "A B C D 1", "name": "59th St"}, {"latlng": [-74.000201, 40.737826], "lines": "F L M 1 2 3", "name": "14th St"}, {"latlng": [-73.997871, 40.74104], "lines": "1", "name": "18th St"}, {"latlng": [-73.905249, 40.682829], "lines": "L", "name": "Bushwick Av"}, {"latlng": [-73.9134, 40.839306], "lines": "B D", "name": "170th St"}, {"latlng": [-73.996353, 40.624842], "lines": "D N", "name": "New Utrecht Av"}, {"latlng": [-73.972367, 40.67705], "lines": "B Q", "name": "7th Av"}, {"latlng": [-73.85062, 40.903125], "lines": "2 5", "name": "Wakefield-241st St"}, {"latlng": [-73.945495, 40.807754], "lines": "2 3", "name": "125th St"}, {"latlng": [-73.980492, 40.688246], "lines": "2 3 4 5", "name": "Nevins St"}, {"latlng": [-73.927271, 40.865491], "lines": "A", "name": "Dyckman St-200th St"}, {"latlng": [-73.950234, 40.700377], "lines": "G", "name": "Flushing Av"}, {"latlng": [-73.914042, 40.805368], "lines": "6", "name": "Cypress Av"}, {"latlng": [-73.90177, 40.819585], "lines": "2 5", "name": "Prospect Av"}, {"latlng": [-73.939704, 40.847391], "lines": "A", "name": "175th St"}, {"latlng": [-73.968916, 40.785868], "lines": "B C", "name": "86th St"}, {"latlng": [-73.92261, 40.664717], "lines": "3", "name": "Sutter Av"}, {"latlng": [-73.904834, 40.878856], "lines": "1", "name": "231st St"}, {"latlng": [-73.97425, 40.58962], "lines": "F", "name": "Av X"}, {"latlng": [-74.003401, 40.713243], "lines": "J Z 4 5 6", "name": "Chambers St"}, {"latlng": [-73.973357, 40.596063], "lines": "F", "name": "Av U"}, {"latlng": [-73.973022, 40.608944], "lines": "F", "name": "Av P"}, {"latlng": [-73.974197, 40.61514], "lines": "F", "name": "Av N"}, {"latlng": [-73.976127, 40.625322], "lines": "F", "name": "Av I"}, {"latlng": [-73.943832, 40.746554], "lines": "G", "name": "Long Island City-Court Square"}, {"latlng": [-73.886283, 40.826525], "lines": "6", "name": "Whitlock Av"}, {"latlng": [-73.893064, 40.824073], "lines": "2 5", "name": "Simpson St"}, {"latlng": [-73.951277, 40.724635], "lines": "G", "name": "Nassau Av"}, {"latlng": [-73.832163, 40.684331], "lines": "A", "name": "111th St-Greenwood Av"}, {"latlng": [-73.899485, 40.650573], "lines": "L", "name": "East 105th St"}, {"latlng": [-73.927351, 40.818375], "lines": "2 4 5", "name": "149th St-Grand Concourse"}, {"latlng": [-73.890064, 40.873412], "lines": "4", "name": "Bedford Park Blvd-Lehman College"}, {"latlng": [-73.986599, 40.739864], "lines": "6", "name": "23rd St"}, {"latlng": [-73.847036, 40.836488], "lines": "6", "name": "Zerega Av"}, {"latlng": [-73.86505, 40.677044], "lines": "A", "name": "Grant Av"}, {"latlng": [-73.93418, 40.859022], "lines": "A", "name": "190th St"}, {"latlng": [-73.982209, 40.77344], "lines": "1", "name": "66th St-Lincoln Center"}, {"latlng": [-74.000495, 40.732338], "lines": "A B C D E F M", "name": "West 4th St"}, {"latlng": [-73.937969, 40.851695], "lines": "A", "name": "181st St"}, {"latlng": [-73.755405, 40.603995], "lines": "A", "name": "Far Rockaway-Mott Av"}, {"latlng": [-73.949046, 40.694568], "lines": "G", "name": "Myrtle-Willoughby Avs"}, {"latlng": [-73.953581, 40.742626], "lines": "7", "name": "Vernon Blvd-Jackson Av"}, {"latlng": [-73.897749, 40.861296], "lines": "B D", "name": "Fordham Rd"}, {"latlng": [-73.992872, 40.665414], "lines": "R", "name": "Prospect Av"}, {"latlng": [-73.914685, 40.844434], "lines": "4", "name": "Mt Eden Av"}, {"latlng": [-73.937594, 40.804138], "lines": "4 5 6", "name": "125th St"}, {"latlng": [-73.820574, 40.709179], "lines": "F", "name": "Briarwood-Van Wyck Blvd"}, {"latlng": [-73.869527, 40.749145], "lines": "7", "name": "Junction Blvd"}, {"latlng": [-73.941514, 40.830518], "lines": "C", "name": "155th St"}, {"latlng": [-73.788522, 40.592374], "lines": "A", "name": "Beach 60th St"}, {"latlng": [-74.003549, 40.655144], "lines": "N R", "name": "36th St"}, {"latlng": [-74.011056, 40.706476], "lines": "J Z", "name": "Broad St"}, {"latlng": [-73.917791, 40.840075], "lines": "4", "name": "170th St"}, {"latlng": [-73.981963, 40.753821], "lines": "B D F M 7", "name": "5th Av"}, {"latlng": [-73.803326, 40.707564], "lines": "F", "name": "Parsons Blvd"}, {"latlng": [-73.858992, 40.679371], "lines": "A", "name": "80th St-Hudson St"}, {"latlng": [-73.975939, 40.576127], "lines": "F Q", "name": "West 8th St"}, {"latlng": [-73.86001, 40.692435], "lines": "J", "name": "Forest Parkway-85th St"}, {"latlng": [-73.978172, 40.636119], "lines": "F", "name": "Ditmas Av"}, {"latlng": [-73.990151, 40.692404], "lines": "R 2 3 4 5", "name": "Borough Hall"}, {"latlng": [-73.988302, 40.670847], "lines": "F G R", "name": "9th St"}, {"latlng": [-73.951822, 40.799075], "lines": "2 3", "name": "110th St-Central Park North"}, {"latlng": [-73.947642, 40.632836], "lines": "2 5", "name": "Flatbush Av-Brooklyn College"}, {"latlng": [-73.920786, 40.678822], "lines": "A C", "name": "Ralph Av"}, {"latlng": [-73.979137, 40.597473], "lines": "N", "name": "Av U"}, {"latlng": [-73.972361, 40.603217], "lines": "F", "name": "Kings Highway"}, {"latlng": [-73.996786, 40.737335], "lines": "F L M 1 2 3", "name": "6th Av"}, {"latlng": [-73.768175, 40.595398], "lines": "A", "name": "Beach 36th St"}, {"latlng": [-73.953431, 40.70687], "lines": "J M", "name": "Hewes St"}, {"latlng": [-73.986829, 40.597704], "lines": "D", "name": "25th Av"}, {"latlng": [-73.933596, 40.849505], "lines": "1", "name": "181st St"}, {"latlng": [-73.98795, 40.749567], "lines": "B D F M N Q R", "name": "34th St"}, {"latlng": [-73.979678, 40.644041], "lines": "F", "name": "Church Av"}, {"latlng": [-73.867352, 40.865462], "lines": "2 5", "name": "Allerton Av"}, {"latlng": [-73.911586, 40.699814], "lines": "L M", "name": "Myrtle Av"}, {"latlng": [-73.831008, 40.714441], "lines": "E F", "name": "Kew Gardens-Union Turnpike"}, {"latlng": [-74.011029, 40.710668], "lines": "R", "name": "Cortlandt St"}, {"latlng": [-74.007582, 40.710374], "lines": "A C J Z 2 3 4 5", "name": "Fulton St"}, {"latlng": [-73.947408, 40.703869], "lines": "J M", "name": "Lorimer St"}, {"latlng": [-74.002578, 40.739777], "lines": "A C E L", "name": "8th Av"}, {"latlng": [-73.926138, 40.810476], "lines": "6", "name": "138th St-3rd Ave"}, {"latlng": [-73.851222, 40.834255], "lines": "6", "name": "Castle Hill Av"}, {"latlng": [-73.958158, 40.800605], "lines": "B C", "name": "Cathedral Parkway-110th St"}, {"latlng": [-73.966847, 40.803967], "lines": "1", "name": "Cathedral Parkway-110th St"}, {"latlng": [-73.908946, 40.662549], "lines": "3", "name": "Rockaway Av"}, {"latlng": [-73.827559, 40.583209], "lines": "H", "name": "Beach 105th St"}, {"latlng": [-73.905227, 40.85041], "lines": "B D", "name": "Tremont Av"}, {"latlng": [-73.906006, 40.752885], "lines": "M R", "name": "Northern Blvd"}, {"latlng": [-73.903879, 40.858407], "lines": "4", "name": "183rd St"}, {"latlng": [-73.922913, 40.706607], "lines": "L", "name": "Jefferson St"}, {"latlng": [-73.929575, 40.756804], "lines": "N Q", "name": "36 Av-Washington Av"}, {"latlng": [-73.909831, 40.874561], "lines": "1", "name": "Marble Hill-225th St"}, {"latlng": [-73.993365, 40.747215], "lines": "1", "name": "28th St"}, {"latlng": [-73.918425, 40.703811], "lines": "L", "name": "DeKalb Av"}, {"latlng": [-73.995959, 40.67358], "lines": "F G R", "name": "Smith-9th St"}, {"latlng": [-73.990862, 40.686145], "lines": "F G", "name": "Bergen St"}, {"latlng": [-73.97192, 40.757107], "lines": "E M 6", "name": "51st St"}, {"latlng": [-73.994659, 40.725915], "lines": "B D F M 6", "name": "Bleecker St"}, {"latlng": [-73.991777, 40.6941], "lines": "R 2 3 4 5", "name": "Court St"}, {"latlng": [-74.014034, 40.645069], "lines": "R", "name": "53rd St"}, {"latlng": [-73.994324, 40.646292], "lines": "D", "name": "9th Av"}, {"latlng": [-73.989344, 40.741303], "lines": "N R", "name": "23rd St"}, {"latlng": [-73.950275, 40.714063], "lines": "G L", "name": "Lorimer St"}, {"latlng": [-74.008811, 40.713051], "lines": "A C E 1 2 3", "name": "Park Place"}, {"latlng": [-73.948411, 40.639967], "lines": "2 5", "name": "Newkirk Av"}, {"latlng": [-73.894895, 40.664635], "lines": "3", "name": "Pennsylvania Av"}, {"latlng": [-73.967258, 40.76266], "lines": "N Q R 4 5 6", "name": "Lexington Av"}, {"latlng": [-74.005367, 40.728251], "lines": "1", "name": "Houston St"}, {"latlng": [-74.013342, 40.70722], "lines": "R", "name": "Rector St"}, {"latlng": [-73.981929, 40.768247], "lines": "A B C D 1", "name": "59th St-Columbus Circle"}, {"latlng": [-73.998864, 40.619589], "lines": "D", "name": "71st St"}, {"latlng": [-74.013783, 40.707513], "lines": "1", "name": "Rector St"}, {"latlng": [-73.891394, 40.746848], "lines": "E F M R 7", "name": "Broadway-74th St"}, {"latlng": [-73.988114, 40.718611], "lines": "F J M Z", "name": "Delancey St"}, {"latlng": [-73.975264, 40.620769], "lines": "F", "name": "Bay Parkway-22nd Av"}, {"latlng": [-73.955589, 40.779492], "lines": "4 5 6", "name": "86th St"}, {"latlng": [-73.910456, 40.682893], "lines": "J Z", "name": "Chauncey St"}, {"latlng": [-73.912034, 40.775036], "lines": "N Q", "name": "Ditmars Blvd"}, {"latlng": [-73.860341, 40.888022], "lines": "2 5", "name": "225th St"}, {"latlng": [-73.929412, 40.855225], "lines": "1", "name": "191st St"}, {"latlng": [-73.981824, 40.690635], "lines": "B Q R", "name": "DeKalb Av"}, {"latlng": [-73.842952, 40.839892], "lines": "6", "name": "Westchester Square-East Tremont Av"}, {"latlng": [-73.933147, 40.706152], "lines": "L", "name": "Morgan Av"}, {"latlng": [-73.990568, 40.735736], "lines": "L N Q R 4 5 6", "name": "Union Square"}, {"latlng": [-73.975939, 40.576127], "lines": "F Q", "name": "West 8th St"}, {"latlng": [-73.901975, 40.669367], "lines": "L", "name": "Sutter Av"}, {"latlng": [-73.860816, 40.833226], "lines": "6", "name": "Parkchester-East 177th St"}, {"latlng": [-74.010006, 40.648939], "lines": "R", "name": "45th St"}, {"latlng": [-73.904084, 40.695602], "lines": "L", "name": "Halsey St"}, {"latlng": [-73.916327, 40.661453], "lines": "3", "name": "Saratoga Av"}, {"latlng": [-73.968379, 40.799446], "lines": "1", "name": "103rd St"}, {"latlng": [-73.969055, 40.757552], "lines": "E M 6", "name": "Lexington Av-53rd St"}, {"latlng": [-73.986885, 40.699743], "lines": "F", "name": "York St"}, {"latlng": [-73.92227, 40.68963], "lines": "J Z", "name": "Gates Av"}, {"latlng": [-73.890358, 40.67271], "lines": "A C", "name": "Van Siclen Av"}, {"latlng": [-73.994304, 40.640914], "lines": "D", "name": "Fort Hamilton Parkway"}, {"latlng": [-73.976971, 40.629755], "lines": "F", "name": "18th Av"}, {"latlng": [-73.828294, 40.700492], "lines": "J Z", "name": "121st St"}, {"latlng": [-73.93985, 40.707739], "lines": "L", "name": "Montrose Av"}, {"latlng": [-73.93647, 40.82388], "lines": "3", "name": "Harlem-148th St"}, {"latlng": [-73.860495, 40.854364], "lines": "5", "name": "Morris Park"}, {"latlng": [-73.981233, 40.577422], "lines": "D F N Q", "name": "Stillwell Av"}, {"latlng": [-73.967967, 40.762526], "lines": "N Q R 4 5 6", "name": "59th St"}, {"latlng": [-73.944216, 40.824783], "lines": "A B C D", "name": "145th St"}, {"latlng": [-73.896736, 40.822181], "lines": "2 5", "name": "Intervale Av"}, {"latlng": [-73.90185, 40.646654], "lines": "L", "name": "Canarsie - Rockaway Parkway"}, {"latlng": [-73.796924, 40.590927], "lines": "A", "name": "Beach 67th St"}, {"latlng": [-73.907684, 40.853453], "lines": "4", "name": "Burnside Av"}, {"latlng": [-73.959874, 40.77362], "lines": "6", "name": "77th St"}, {"latlng": [-73.999892, 40.718092], "lines": "J N Q R Z 6", "name": "Canal St"}, {"latlng": [-73.873785, 40.683194], "lines": "J Z", "name": "Crescent St"}, {"latlng": [-73.941126, 40.70026], "lines": "J M", "name": "Flushing Av"}, {"latlng": [-73.976041, 40.751431], "lines": "GS 4 5 6 7", "name": "Grand Central-42nd St"}, {"latlng": [-73.887734, 40.837288], "lines": "2 5", "name": "174th St"}, {"latlng": [-73.918819, 40.864614], "lines": "1", "name": "207th St"}, {"latlng": [-73.879159, 40.828584], "lines": "6", "name": "Elder Av"}, {"latlng": [-73.854376, 40.898379], "lines": "2 5", "name": "238th St-Nereid Av"}, {"latlng": [-73.948959, 40.645098], "lines": "2 5", "name": "Beverly Rd"}, {"latlng": [-73.897174, 40.86776], "lines": "4", "name": "Kingsbridge Rd"}, {"latlng": [-73.993728, 40.601875], "lines": "D", "name": "Bay Parkway"}, {"latlng": [-73.855359, 40.858985], "lines": "5", "name": "Pelham Parkway"}, {"latlng": [-73.959399, 40.617618], "lines": "B Q", "name": "Av M"}, {"latlng": [-73.830301, 40.660476], "lines": "A", "name": "Howard Beach"}, {"latlng": [-73.890549, 40.820948], "lines": "6", "name": "Hunts Point Av"}, {"latlng": [-74.017881, 40.641362], "lines": "N R", "name": "59th St"}, {"latlng": [-73.912549, 40.744149], "lines": "7", "name": "Lincoln Av-52nd St"}, {"latlng": [-73.935657, 40.697207], "lines": "J M Z", "name": "Myrtle Av"}, {"latlng": [-73.9214, 40.835537], "lines": "4", "name": "167th St"}, {"latlng": [-73.820558, 40.585307], "lines": "H", "name": "Beach 98th St"}, {"latlng": [-73.979189, 40.752769], "lines": "GS 4 5 6 7", "name": "Grand Central"}, {"latlng": [-73.921479, 40.766779], "lines": "N Q", "name": "30 Av-Grand Av"}, {"latlng": [-73.836345, 40.697418], "lines": "J", "name": "111th St"}, {"latlng": [-73.891865, 40.829993], "lines": "2 5", "name": "Freeman St"}, {"latlng": [-73.807969, 40.700486], "lines": "E J Z", "name": "Sutphin Blvd-Archer Av - JFK"}, {"latlng": [-73.95085, 40.662742], "lines": "2 5", "name": "Sterling St"}, {"latlng": [-73.932942, 40.668897], "lines": "3 4", "name": "Utica Av"}, {"latlng": [-73.936245, 40.820421], "lines": "3", "name": "145th St"}, {"latlng": [-73.937243, 40.748973], "lines": "E M R", "name": "Queens Plaza"}, {"latlng": [-73.947649, 40.817894], "lines": "B C", "name": "135th St"}, {"latlng": [-73.961376, 40.577621], "lines": "B Q", "name": "Brighton Beach"}, {"latlng": [-73.887138, 40.873244], "lines": "B D", "name": "Bedford Park Blvd"}, {"latlng": [-73.950466, 40.669847], "lines": "3", "name": "Nostrand Av"}, {"latlng": [-73.925651, 40.827905], "lines": "B D 4", "name": "Yankee Stadium-161st St"}, {"latlng": [-73.948916, 40.742216], "lines": "7", "name": "Hunters Point"}, {"latlng": [-73.810708, 40.70546], "lines": "F", "name": "Sutphin Blvd"}, {"latlng": [-73.990531, 40.699337], "lines": "A C J Z 2 3 4 5", "name": "High St"}, {"latlng": [-73.993915, 40.72028], "lines": "J Z", "name": "Bowery"}, {"latlng": [-73.993753, 40.718267], "lines": "B D", "name": "Grand St"}, {"latlng": [-73.83003, 40.7596], "lines": "7", "name": "Flushing-Main St"}, {"latlng": [-73.96611, 40.764627], "lines": "F", "name": "Lexington Av"}, {"latlng": [-73.944053, 40.714565], "lines": "L", "name": "Graham Av"}, {"latlng": [-73.866256, 40.87785], "lines": "2 5", "name": "Gun Hill Rd"}, {"latlng": [-73.972323, 40.793919], "lines": "1 2 3", "name": "96th St"}, {"latlng": [-73.90087, 40.884667], "lines": "1", "name": "238th St"}, {"latlng": [-73.949625, 40.802098], "lines": "2 3", "name": "116th St"}, {"latlng": [-73.911946, 40.67834], "lines": "A C", "name": "Rockaway Av"}, {"latlng": [-73.942161, 40.669399], "lines": "3", "name": "Kingston Av"}, {"latlng": [-74.012994, 40.703087], "lines": "R 1", "name": "Whitehall St"}, {"latlng": [-73.835812, 40.672131], "lines": "A", "name": "Aqueduct Racetrack"}, {"latlng": [-73.837683, 40.681711], "lines": "A", "name": "104th St-Oxford Av"}, {"latlng": [-73.992821, 40.742878], "lines": "F M", "name": "23rd St"}, {"latlng": [-74.005229, 40.720824], "lines": "A C E", "name": "Canal St"}, {"latlng": [-74.001775, 40.719527], "lines": "J N Q R Z 6", "name": "Canal St (UL)"}, {"latlng": [-73.911794, 40.84848], "lines": "4", "name": "176th St"}, {"latlng": [-73.996204, 40.725297], "lines": "B D F M 6", "name": "Broadway-Lafayette St"}, {"latlng": [-73.961495, 40.655292], "lines": "B Q", "name": "Parkside Av"}, {"latlng": [-73.976848, 40.751776], "lines": "GS 4 5 6 7", "name": "Grand Central-42nd St"}, {"latlng": [-73.925536, 40.860531], "lines": "1", "name": "Dyckman St"}, {"latlng": [-73.938209, 40.830135], "lines": "B D", "name": "155th St"}, {"latlng": [-74.013664, 40.702068], "lines": "R 1", "name": "South Ferry"}, {"latlng": [-73.9502, 40.656652], "lines": "2 5", "name": "Winthrop St"}, {"latlng": [-73.919711, 40.698664], "lines": "M", "name": "Knickerbocker Av"}, {"latlng": [-73.877223, 40.737015], "lines": "M R", "name": "Grand Av-Newtown"}, {"latlng": [-73.867164, 40.871356], "lines": "2 5", "name": "Burke Av"}, {"latlng": [-73.917843, 40.770258], "lines": "N Q", "name": "Astoria Blvd-Hoyt Av"}, {"latlng": [-73.900571, 40.664038], "lines": "L", "name": "Livonia Av"}, {"latlng": [-73.990173, 40.713715], "lines": "F", "name": "East Broadway"}, {"latlng": [-74.006277, 40.722854], "lines": "1", "name": "Canal St"}, {"latlng": [-73.813641, 40.588034], "lines": "H", "name": "Beach 90th St"}, {"latlng": [-73.929849, 40.813224], "lines": "4 5", "name": "138th St"}, {"latlng": [-73.953522, 40.689627], "lines": "G", "name": "Bedford-Nostrand Avs"}, {"latlng": [-73.998041, 40.745906], "lines": "C E", "name": "23rd St"}, {"latlng": [-73.97881, 40.683666], "lines": "B Q D N R 2 3 4 5", "name": "Atlantic Av-Barclays Ctr"}, {"latlng": [-73.954155, 40.586896], "lines": "B Q", "name": "Sheepshead Bay"}, {"latlng": [-74.006571, 40.709416], "lines": "A C J Z 2 3 4 5", "name": "Fulton St"}, {"latlng": [-73.876613, 40.748408], "lines": "7", "name": "90th St Elmhurst"}, {"latlng": [-73.966839, 40.688089], "lines": "G", "name": "Clinton-Washington Avs"}, {"latlng": [-73.957734, 40.60867], "lines": "B Q", "name": "Kings Highway"}, {"latlng": [-73.985026, 40.61741], "lines": "N", "name": "20th Av"}, {"latlng": [-73.984139, 40.759901], "lines": "N Q R", "name": "49th St"}, {"latlng": [-73.95036, 40.826551], "lines": "1", "name": "145th St"}, {"latlng": [-74.005351, 40.631386], "lines": "N", "name": "Fort Hamilton Parkway"}, {"latlng": [-74.02551, 40.629742], "lines": "R", "name": "77th St"}, {"latlng": [-73.976218, 40.788644], "lines": "1", "name": "86th St"}, {"latlng": [-73.889395, 40.665449], "lines": "3", "name": "Van Siclen Av"}, {"latlng": [-73.828121, 40.852462], "lines": "6", "name": "Pelham Bay Park"}, {"latlng": [-73.95326, 40.759145], "lines": "F", "name": "Roosevelt Island"}, {"latlng": [-73.834058, 40.668234], "lines": "A", "name": "Aqueduct-North Conduit Av"}, {"latlng": [-73.993391, 40.752287], "lines": "A C E", "name": "34th St"}, {"latlng": [-73.940133, 40.840556], "lines": "A C 1", "name": "168th St"}, {"latlng": [-73.987342, 40.692338], "lines": "A C F R", "name": "Jay St - Borough Hall"}, {"latlng": [-73.975375, 40.687119], "lines": "G", "name": "Fulton St"}, {"latlng": [-73.896548, 40.674542], "lines": "A C", "name": "Liberty Av"}, {"latlng": [-73.884655, 40.87975], "lines": "4", "name": "Mosholu Parkway"}, {"latlng": [-73.836322, 40.843863], "lines": "6", "name": "Middletown Rd"}, {"latlng": [-73.989735, 40.757308], "lines": "A C E N Q R S 1 2 3", "name": "42nd St"}, {"latlng": [-73.867618, 40.831509], "lines": "6", "name": "St Lawrence Av"}, {"latlng": [-73.855334, 40.75173], "lines": "7", "name": "111th St"}, {"latlng": [-73.956848, 40.68138], "lines": "A C FS", "name": "Franklin Av"}, {"latlng": [-73.815925, 40.608382], "lines": "A H", "name": "Broad Channel"}, {"latlng": [-73.991057, 40.750373], "lines": "1 2 3", "name": "34th St"}, {"latlng": [-73.983765, 40.588841], "lines": "D", "name": "Bay 50th St"}, {"latlng": [-73.995657, 40.744081], "lines": "1", "name": "23rd St"}, {"latlng": [-73.776013, 40.592943], "lines": "A", "name": "Beach 44th St"}, {"latlng": [-73.981628, 40.730953], "lines": "L", "name": "1st Av"}, {"latlng": [-73.88075, 40.67413], "lines": "A C", "name": "Shepherd Av"}, {"latlng": [-73.989951, 40.734673], "lines": "L N Q R 4 5 6", "name": "14th St-Union Square"}, {"latlng": [-74.00169, 40.740893], "lines": "A C E L", "name": "14th St"}, {"latlng": [-73.902984, 40.74563], "lines": "7", "name": "Woodside Av-61st St"}, {"latlng": [-73.958131, 40.670682], "lines": "FS 2 3 4 5", "name": "Franklin Av"}, {"latlng": [-73.896435, 40.816104], "lines": "6", "name": "Longwood Av"}, {"latlng": [-73.889601, 40.711396], "lines": "M", "name": "Metropolitan Av"}, {"latlng": [-73.980658, 40.764664], "lines": "N Q R", "name": "57th St"}, {"latlng": [-73.878751, 40.886037], "lines": "4", "name": "Woodlawn"}, {"latlng": [-73.905316, 40.678334], "lines": "A C J L", "name": "Broadway Junction-East New York"}, {"latlng": [-73.959245, 40.670343], "lines": "FS 2 3 4 5", "name": "Botanic Gardens"}, {"latlng": [-73.956872, 40.717304], "lines": "L", "name": "Bedford Av"}, {"latlng": [-73.988691, 40.745494], "lines": "N R", "name": "28th St"}, {"latlng": [-73.983849, 40.761728], "lines": "1", "name": "50th St"}, {"latlng": [-74.00061, 40.613501], "lines": "D", "name": "79th St"}, {"latlng": [-73.995476, 40.631435], "lines": "D", "name": "55th St"}, {"latlng": [-73.980353, 40.603923], "lines": "N", "name": "Kings Highway"}, {"latlng": [-74.000193, 40.718803], "lines": "J N Q R Z 6", "name": "Canal St"}, {"latlng": [-73.925508, 40.76182], "lines": "N Q", "name": "Broadway"}, {"latlng": [-74.007691, 40.710197], "lines": "A C J Z 2 3 4 5", "name": "Broadway-Nassau"}, {"latlng": [-73.928814, 40.693342], "lines": "J", "name": "Kosciusko St"}, {"latlng": [-74.023377, 40.634967], "lines": "R", "name": "Bay Ridge Av"}, {"latlng": [-73.997141, 40.722301], "lines": "6", "name": "Spring St"}, {"latlng": [-73.851576, 40.693879], "lines": "J Z", "name": "Woodhaven Blvd"}, {"latlng": [-73.925831, 40.827994], "lines": "B  D 4", "name": "Yankee Stadium-161st St"}, {"latlng": [-73.835592, 40.580903], "lines": "H", "name": "Rockaway Park-Beach 116th"}, {"latlng": [-73.987495, 40.75529], "lines": "A C E N Q R S 1 2 3", "name": "Times Square"}, {"latlng": [-73.862633, 40.883895], "lines": "2 5", "name": "219th St"}, {"latlng": [-73.955161, 40.595246], "lines": "B Q", "name": "Neck Rd"}, {"latlng": [-73.963891, 40.640927], "lines": "B Q", "name": "Cortelyou Rd"}, {"latlng": [-73.898583, 40.889248], "lines": "1", "name": "Van Cortlandt Park-242nd St"}, {"latlng": [-73.985065, 40.690545], "lines": "2 3", "name": "Hoyt St"}, {"latlng": [-73.932755, 40.752882], "lines": "N Q", "name": "39 Av-Beebe Av"}, {"latlng": [-73.898654, 40.676992], "lines": "J", "name": "Alabama Av"}, {"latlng": [-74.004131, 40.713065], "lines": "J Z 4 5 6", "name": "Brooklyn Bridge-City Hall"}, {"latlng": [-73.98311, 40.677316], "lines": "R", "name": "Union St"}, {"latlng": [-73.953676, 40.822008], "lines": "1", "name": "137th St-City College"}, {"latlng": [-73.960803, 40.625039], "lines": "B Q", "name": "Av J"}, {"latlng": [-73.972143, 40.781433], "lines": "B C", "name": "81st St - Museum of Natural History"}, {"latlng": [-73.961639, 40.62927], "lines": "B Q", "name": "Av H"}, {"latlng": [-73.954882, 40.805085], "lines": "B C", "name": "116th St"}, {"latlng": [-73.989998, 40.693219], "lines": "R 2 3 4 5", "name": "Borough Hall"}, {"latlng": [-73.982076, 40.746081], "lines": "6", "name": "33rd St"}, {"latlng": [-73.915279, 40.869444], "lines": "1", "name": "215th St"}, {"latlng": [-73.975776, 40.650782], "lines": "F", "name": "Fort Hamilton Parkway"}, {"latlng": [-73.984264, 40.74307], "lines": "6", "name": "28th St"}, {"latlng": [-73.997702, 40.724329], "lines": "N R", "name": "Prince St"}, {"latlng": [-73.918432, 40.833769], "lines": "B D", "name": "167th St"}, {"latlng": [-74.009509, 40.710368], "lines": "A C J Z 2 3 4 5", "name": "Fulton St"}, {"latlng": [-74.001736, 40.607954], "lines": "D", "name": "18th Av"}, {"latlng": [-73.986229, 40.755983], "lines": "A C E N Q R GS 1 2 3", "name": "Times Square"}, {"latlng": [-73.955929, 40.5993], "lines": "B Q", "name": "Av U"}, {"latlng": [-73.971046, 40.675235], "lines": "2 3", "name": "Grand Army Plaza"}, {"latlng": [-74.008585, 40.714111], "lines": "A C E 2 3", "name": "Chambers St"}, {"latlng": [-73.919899, 40.868072], "lines": "A", "name": "Inwood - 207th St"}, {"latlng": [-73.838591, 40.878663], "lines": "5", "name": "Baychester Av"}, {"latlng": [-73.981329, 40.758663], "lines": "B D F M", "name": "47-50th Sts Rockefeller Center"}, {"latlng": [-73.946, 40.747846], "lines": "E G M 7", "name": "23rd St-Ely Av"}, {"latlng": [-73.992629, 40.730328], "lines": "N R", "name": "8th St"}, {"latlng": [-73.980305, 40.666271], "lines": "F", "name": "7th Av"}, {"latlng": [-73.96387, 40.768141], "lines": "6", "name": "68th St-Hunter College"}, {"latlng": [-73.955827, 40.680596], "lines": "A FS", "name": "Franklin Av"}, {"latlng": [-74.009781, 40.712582], "lines": "A C E 2 3", "name": "World Trade Center"}, {"latlng": [-73.962982, 40.650527], "lines": "B Q", "name": "Church Av"}, {"latlng": [-74.011862, 40.707557], "lines": "4 5", "name": "Wall St"}, {"latlng": [-73.962793, 40.635082], "lines": "B Q", "name": "Newkirk Av"}, {"latlng": [-73.830834, 40.8883], "lines": "5", "name": "Eastchester-Dyre Av"}, {"latlng": [-73.957624, 40.674772], "lines": "FS", "name": "Park Place"}, {"latlng": [-73.783817, 40.712646], "lines": "F", "name": "Jamaica-179th St"}, {"latlng": [-73.891338, 40.746644], "lines": "E F M R 7", "name": "Jackson Heights-Roosevelt Ave"}, {"latlng": [-73.872106, 40.675377], "lines": "A C", "name": "Euclid Av"}, {"latlng": [-73.973347, 40.764811], "lines": "N Q R", "name": "5th Av"}, {"latlng": [-73.867615, 40.857192], "lines": "2 5", "name": "Pelham Parkway"}]
+[
+  {
+    "align": "lt",
+    "latlng": [
+      -73.985942,
+      40.69218
+    ],
+    "lines": "A C F R",
+    "name": "Lawrence St"
+  },
+  {
+    "align": "lb",
+    "latlng": [
+      -73.94067,
+      40.711926
+    ],
+    "lines": "L",
+    "name": "Grand St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.902447,
+      40.663515
+    ],
+    "lines": "3",
+    "name": "Junius St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -74.002906,
+      40.733422
+    ],
+    "lines": "1",
+    "name": "Christopher St"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.8627,
+      40.749865
+    ],
+    "lines": "7",
+    "name": "103rd St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.962246,
+      40.661614
+    ],
+    "lines": "B Q FS",
+    "name": "Prospect Park"
+  },
+  {
+    "align": "lm",
+    "latlng": [
+      -73.950683,
+      40.667883
+    ],
+    "lines": "2 5",
+    "name": "President St"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.97641,
+      40.775594
+    ],
+    "lines": "B C",
+    "name": "72nd St"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.883697,
+      40.747659
+    ],
+    "lines": "7",
+    "name": "82nd St-Jackson Heights"
+  },
+  {
+    "align": "rm",
+    "latlng": [
+      -73.903097,
+      40.675345
+    ],
+    "lines": "L",
+    "name": "Atlantic Av"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.97881,
+      40.683666
+    ],
+    "lines": "B Q D N R 2 3 4 5",
+    "name": "Pacific St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.901034,
+      40.862803
+    ],
+    "lines": "4",
+    "name": "Fordham Rd"
+  },
+  {
+    "align": "lb",
+    "latlng": [
+      -73.861604,
+      40.729846
+    ],
+    "lines": "M R",
+    "name": "63rd Drive-Rego Park"
+  },
+  {
+    "align": "lm",
+    "latlng": [
+      -73.801109,
+      40.702147
+    ],
+    "lines": "E J Z",
+    "name": "Parsons Blvd-Archer Av - Jamaica Center"
+  },
+  {
+    "align": "rt",
+    "latlng": [
+      -73.986754,
+      40.754672
+    ],
+    "lines": "A C E N Q R S 1 2 3",
+    "name": "Times Square-42nd St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.867139,
+      40.691324
+    ],
+    "lines": "J Z",
+    "name": "Elderts Lane-75th St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -74.006886,
+      40.719318
+    ],
+    "lines": "1",
+    "name": "Franklin St"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.761353,
+      40.600066
+    ],
+    "lines": "A",
+    "name": "Beach 25th St"
+  },
+  {
+    "align": "lb",
+    "latlng": [
+      -73.950426,
+      40.680438
+    ],
+    "lines": "A C",
+    "name": "Nostrand Av"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.874516,
+      40.829521
+    ],
+    "lines": "6",
+    "name": "Morrison Av-Soundview Av"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.884639,
+      40.679947
+    ],
+    "lines": "J",
+    "name": "Cleveland St"
+  },
+  {
+    "align": "rt",
+    "latlng": [
+      -73.924016,
+      40.743781
+    ],
+    "lines": "7",
+    "name": "Lowery St-40th St"
+  },
+  {
+    "align": "lb",
+    "latlng": [
+      -73.837324,
+      40.718331
+    ],
+    "lines": "E F",
+    "name": "75th Av"
+  },
+  {
+    "align": "rt",
+    "latlng": [
+      -73.91924,
+      40.807566
+    ],
+    "lines": "6",
+    "name": "Brook Av"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.941617,
+      40.798629
+    ],
+    "lines": "6",
+    "name": "116th St"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.907657,
+      40.808719
+    ],
+    "lines": "6",
+    "name": "East 143rd St-St Mary's St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.87255,
+      40.689941
+    ],
+    "lines": "J",
+    "name": "Cypress Hills"
+  },
+  {
+    "align": "lb",
+    "latlng": [
+      -73.973946,
+      40.686113
+    ],
+    "lines": "C",
+    "name": "Lafayette Av"
+  },
+  {
+    "align": "lb",
+    "latlng": [
+      -74.011719,
+      40.635064
+    ],
+    "lines": "N",
+    "name": "8th Av"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.825798,
+      40.685951
+    ],
+    "lines": "A",
+    "name": "Lefferts Blvd"
+  },
+  {
+    "align": "lm",
+    "latlng": [
+      -73.884079,
+      40.666235
+    ],
+    "lines": "3",
+    "name": "New Lots Av"
+  },
+  {
+    "align": "rt",
+    "latlng": [
+      -73.985001,
+      40.688484
+    ],
+    "lines": "A C G",
+    "name": "Hoyt & Schermerhorn"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.97745,
+      40.763972
+    ],
+    "lines": "F",
+    "name": "57th St"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.94425,
+      40.79502
+    ],
+    "lines": "6",
+    "name": "110th St"
+  },
+  {
+    "align": "lb",
+    "latlng": [
+      -73.940858,
+      40.679921
+    ],
+    "lines": "A C",
+    "name": "Kingston-Throop"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.994791,
+      40.63626
+    ],
+    "lines": "D",
+    "name": "50th St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -74.028398,
+      40.622687
+    ],
+    "lines": "R",
+    "name": "86th St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -74.009266,
+      40.715478
+    ],
+    "lines": "1 2 3",
+    "name": "Chambers St"
+  },
+  {
+    "align": "lb",
+    "latlng": [
+      -73.981637,
+      40.762862
+    ],
+    "lines": "B D E",
+    "name": "7th Av"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.843853,
+      40.680429
+    ],
+    "lines": "A",
+    "name": "Rockaway Blvd"
+  },
+  {
+    "align": "rm",
+    "latlng": [
+      -73.951418,
+      40.712792
+    ],
+    "lines": "G L",
+    "name": "Metropolitan Av"
+  },
+  {
+    "align": "lb",
+    "latlng": [
+      -73.869229,
+      40.733106
+    ],
+    "lines": "M R",
+    "name": "Woodhaven Blvd"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.979917,
+      40.783934
+    ],
+    "lines": "1",
+    "name": "79th St"
+  },
+  {
+    "align": "lb",
+    "latlng": [
+      -73.930997,
+      40.744587
+    ],
+    "lines": "7",
+    "name": "Rawson St-33rd St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.94489,
+      40.834041
+    ],
+    "lines": "1",
+    "name": "157th St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.857473,
+      40.893193
+    ],
+    "lines": "2 5",
+    "name": "233rd St"
+  },
+  {
+    "align": "rt",
+    "latlng": [
+      -73.916559,
+      40.68637
+    ],
+    "lines": "J",
+    "name": "Halsey St"
+  },
+  {
+    "align": "ct",
+    "latlng": [
+      -73.878855,
+      40.874811
+    ],
+    "lines": "D",
+    "name": "Norwood-205th St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.96411,
+      40.807722
+    ],
+    "lines": "1",
+    "name": "116th St-Columbia University"
+  },
+  {
+    "align": "lm",
+    "latlng": [
+      -73.899232,
+      40.658733
+    ],
+    "lines": "L",
+    "name": "New Lots Av"
+  },
+  {
+    "align": "rm",
+    "latlng": [
+      -73.816859,
+      40.702566
+    ],
+    "lines": "E",
+    "name": "Jamaica-Van Wyck"
+  },
+  {
+    "align": "lb",
+    "latlng": [
+      -73.913333,
+      40.756312
+    ],
+    "lines": "M R",
+    "name": "46th St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.904046,
+      40.688764
+    ],
+    "lines": "L",
+    "name": "Wilson Av"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.92074,
+      40.756879
+    ],
+    "lines": "M R",
+    "name": "Steinway St"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.845625,
+      40.754622
+    ],
+    "lines": "7",
+    "name": "Mets - Willets Point"
+  },
+  {
+    "align": "lm",
+    "latlng": [
+      -73.950308,
+      40.706092
+    ],
+    "lines": "G",
+    "name": "Broadway"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.895877,
+      40.706186
+    ],
+    "lines": "M",
+    "name": "Fresh Pond Rd"
+  },
+  {
+    "align": "lb",
+    "latlng": [
+      -73.975098,
+      40.680829
+    ],
+    "lines": "2 3",
+    "name": "Bergen St"
+  },
+  {
+    "align": "lm",
+    "latlng": [
+      -73.974574,
+      40.581011
+    ],
+    "lines": "F",
+    "name": "Neptune Av-Van Siclen"
+  },
+  {
+    "align": "lb",
+    "latlng": [
+      -73.964375,
+      40.671987
+    ],
+    "lines": "2 3",
+    "name": "Eastern Parkway-Brooklyn Museum"
+  },
+  {
+    "align": "lb",
+    "latlng": [
+      -73.852719,
+      40.726523
+    ],
+    "lines": "M R",
+    "name": "67th Av"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.896403,
+      40.746325
+    ],
+    "lines": "7",
+    "name": "Fisk Av-69th St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -74.014065,
+      40.704817
+    ],
+    "lines": "4 5",
+    "name": "Bowling Green"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.995048,
+      40.680303
+    ],
+    "lines": "F G",
+    "name": "Carroll St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -74.003739,
+      40.726227
+    ],
+    "lines": "C E",
+    "name": "Spring St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.96007,
+      40.688873
+    ],
+    "lines": "G",
+    "name": "Classon Av"
+  },
+  {
+    "align": "lb",
+    "latlng": [
+      -73.975224,
+      40.760167
+    ],
+    "lines": "E M",
+    "name": "5th Av-53rd St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.964492,
+      40.644031
+    ],
+    "lines": "B Q",
+    "name": "Beverly Rd"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.95107,
+      40.785672
+    ],
+    "lines": "6",
+    "name": "96th St"
+  },
+  {
+    "align": "rt",
+    "latlng": [
+      -73.918435,
+      40.743132
+    ],
+    "lines": "7",
+    "name": "Bliss St-46th St"
+  },
+  {
+    "align": "lb",
+    "latlng": [
+      -73.939892,
+      40.836013
+    ],
+    "lines": "C",
+    "name": "163rd St - Amsterdam Av"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.880039,
+      40.68141
+    ],
+    "lines": "J Z",
+    "name": "Norwood Av"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.97823,
+      40.592721
+    ],
+    "lines": "N",
+    "name": "86th St"
+  },
+  {
+    "align": "rt",
+    "latlng": [
+      -73.989779,
+      40.670272
+    ],
+    "lines": "F",
+    "name": "4th Av"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.880049,
+      40.840295
+    ],
+    "lines": "2 5",
+    "name": "East Tremont Av-West Farms Sq"
+  },
+  {
+    "align": "lb",
+    "latlng": [
+      -73.965838,
+      40.683263
+    ],
+    "lines": "C",
+    "name": "Clinton & Washington Avs"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.846384,
+      40.869526
+    ],
+    "lines": "5",
+    "name": "Gun Hill Rd"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.832569,
+      40.84681
+    ],
+    "lines": "6",
+    "name": "Buhre Av"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.979493,
+      40.660365
+    ],
+    "lines": "F",
+    "name": "Prospect Park-15 St"
+  },
+  {
+    "align": "lb",
+    "latlng": [
+      -73.898453,
+      40.749669
+    ],
+    "lines": "M R",
+    "name": "65th St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.891688,
+      40.678024
+    ],
+    "lines": "J Z",
+    "name": "Van Siclen Av"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.868457,
+      40.848828
+    ],
+    "lines": "2 5",
+    "name": "Bronx Park East"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.793604,
+      40.71047
+    ],
+    "lines": "F",
+    "name": "169th St"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.910136,
+      40.8459
+    ],
+    "lines": "B D",
+    "name": "174-175th Sts"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.907807,
+      40.81649
+    ],
+    "lines": "2 5",
+    "name": "Jackson Av"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.996209,
+      40.738228
+    ],
+    "lines": "F L M 1 2 3",
+    "name": "14th St"
+  },
+  {
+    "align": "ct",
+    "latlng": [
+      -73.984569,
+      40.754222
+    ],
+    "lines": "B D F M 7",
+    "name": "42nd St"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.900741,
+      40.856093
+    ],
+    "lines": "B D",
+    "name": "182nd-183rd Sts"
+  },
+  {
+    "align": "lm",
+    "latlng": [
+      -73.954449,
+      40.731352
+    ],
+    "lines": "G",
+    "name": "Greenpoint Av"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.98197,
+      40.778453
+    ],
+    "lines": "1 2 3",
+    "name": "72nd St"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -74.0091,
+      40.706821
+    ],
+    "lines": "2 3",
+    "name": "Wall St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.84433,
+      40.695178
+    ],
+    "lines": "J Z",
+    "name": "104th St-102nd St"
+  },
+  {
+    "align": "lb",
+    "latlng": [
+      -73.844521,
+      40.721691
+    ],
+    "lines": "E F M R",
+    "name": "Forest Hills-71st Av"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.94077,
+      40.814229
+    ],
+    "lines": "2 3",
+    "name": "135th St"
+  },
+  {
+    "align": "rt",
+    "latlng": [
+      -73.917757,
+      40.816109
+    ],
+    "lines": "2 5",
+    "name": "149th St-3rd Av"
+  },
+  {
+    "align": "lb",
+    "latlng": [
+      -73.989938,
+      40.723402
+    ],
+    "lines": "F",
+    "name": "2nd Av"
+  },
+  {
+    "align": "ct",
+    "latlng": [
+      -73.928781,
+      40.752039
+    ],
+    "lines": "M R",
+    "name": "36th St"
+  },
+  {
+    "align": "lb",
+    "latlng": [
+      -73.942836,
+      40.754203
+    ],
+    "lines": "F",
+    "name": "21st St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.903077,
+      40.704423
+    ],
+    "lines": "M",
+    "name": "Forest Av"
+  },
+  {
+    "align": "lb",
+    "latlng": [
+      -73.939561,
+      40.840719
+    ],
+    "lines": "A C",
+    "name": "168th St - Washington Heights"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.958372,
+      40.815581
+    ],
+    "lines": "1",
+    "name": "125th St"
+  },
+  {
+    "align": "lb",
+    "latlng": [
+      -73.990414,
+      40.620671
+    ],
+    "lines": "N",
+    "name": "18th Av"
+  },
+  {
+    "align": "cb",
+    "latlng": [
+      -74.006978,
+      40.713282
+    ],
+    "lines": "R",
+    "name": "City Hall"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -74.030876,
+      40.616622
+    ],
+    "lines": "R",
+    "name": "95th St"
+  },
+  {
+    "align": "rt",
+    "latlng": [
+      -73.99073,
+      40.734789
+    ],
+    "lines": "L N Q R 4 5 6",
+    "name": "Union Square"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.968501,
+      40.576312
+    ],
+    "lines": "Q",
+    "name": "Ocean Parkway"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.981233,
+      40.577422
+    ],
+    "lines": "D F N Q",
+    "name": "Stillwell Av"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.964699,
+      40.791646
+    ],
+    "lines": "B C",
+    "name": "96th St"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.99107,
+      40.730054
+    ],
+    "lines": "6",
+    "name": "Astor Place"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.893509,
+      40.866978
+    ],
+    "lines": "B D",
+    "name": "Kingsbridge Rd"
+  },
+  {
+    "align": "ct",
+    "latlng": [
+      -73.85147,
+      40.679843
+    ],
+    "lines": "A",
+    "name": "88th St-Boyd Av"
+  },
+  {
+    "align": "lm",
+    "latlng": [
+      -73.996895,
+      40.626472
+    ],
+    "lines": "D N",
+    "name": "62nd St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.952343,
+      40.811109
+    ],
+    "lines": "A B C D",
+    "name": "125th St"
+  },
+  {
+    "align": "rm",
+    "latlng": [
+      -73.940202,
+      40.750582
+    ],
+    "lines": "N Q 7",
+    "name": "Queensboro Plaza"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.998091,
+      40.660397
+    ],
+    "lines": "R",
+    "name": "25th St"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.961454,
+      40.796092
+    ],
+    "lines": "B C",
+    "name": "103rd St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.981848,
+      40.611815
+    ],
+    "lines": "N",
+    "name": "Bay Parkway-22nd Av"
+  },
+  {
+    "align": "lb",
+    "latlng": [
+      -73.97689,
+      40.68446
+    ],
+    "lines": "B Q D N R 2 3 4 5",
+    "name": "Atlantic Av"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.985984,
+      40.762456
+    ],
+    "lines": "C E",
+    "name": "50th St"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.947478,
+      40.7906
+    ],
+    "lines": "6",
+    "name": "103rd St"
+  },
+  {
+    "align": "lm",
+    "latlng": [
+      -73.987823,
+      40.749719
+    ],
+    "lines": "B D F M N Q R",
+    "name": "34th St"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.987437,
+      40.718315
+    ],
+    "lines": "F J M Z",
+    "name": "Essex St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.977666,
+      40.684359
+    ],
+    "lines": "B D N Q R 2 3 4 5",
+    "name": "Atlantic Av-Barclays Ctr"
+  },
+  {
+    "align": "lm",
+    "latlng": [
+      -73.949575,
+      40.650843
+    ],
+    "lines": "2 5",
+    "name": "Church Av"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.90774,
+      40.702762
+    ],
+    "lines": "M",
+    "name": "Seneca Av"
+  },
+  {
+    "align": "lb",
+    "latlng": [
+      -73.986122,
+      40.732849
+    ],
+    "lines": "L",
+    "name": "3rd Av"
+  },
+  {
+    "align": "lb",
+    "latlng": [
+      -73.930729,
+      40.679364
+    ],
+    "lines": "A C",
+    "name": "Utica Av"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.927397,
+      40.697857
+    ],
+    "lines": "M",
+    "name": "Central Av"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.904098,
+      40.812118
+    ],
+    "lines": "6",
+    "name": "East 149th St"
+  },
+  {
+    "align": "lb",
+    "latlng": [
+      -73.882017,
+      40.742454
+    ],
+    "lines": "M R",
+    "name": "Elmhurst Av"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.873488,
+      40.841894
+    ],
+    "lines": "2 5",
+    "name": "East 180th St"
+  },
+  {
+    "align": "rt",
+    "latlng": [
+      -73.945264,
+      40.747023
+    ],
+    "lines": "E G M 7",
+    "name": "45 Rd-Court House Sq"
+  },
+  {
+    "align": "rt",
+    "latlng": [
+      -73.998168,
+      40.604556
+    ],
+    "lines": "D",
+    "name": "20th Av"
+  },
+  {
+    "align": "rt",
+    "latlng": [
+      -73.993086,
+      40.697466
+    ],
+    "lines": "2 3",
+    "name": "Clark St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.949724,
+      40.744065
+    ],
+    "lines": "G",
+    "name": "21st St"
+  },
+  {
+    "align": "rt",
+    "latlng": [
+      -73.957757,
+      40.708359
+    ],
+    "lines": "J M Z",
+    "name": "Marcy Av"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.981736,
+      40.768296
+    ],
+    "lines": "A B C D 1",
+    "name": "59th St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -74.000201,
+      40.737826
+    ],
+    "lines": "F L M 1 2 3",
+    "name": "14th St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.997871,
+      40.74104
+    ],
+    "lines": "1",
+    "name": "18th St"
+  },
+  {
+    "align": "lm",
+    "latlng": [
+      -73.905249,
+      40.682829
+    ],
+    "lines": "L",
+    "name": "Bushwick Av"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.9134,
+      40.839306
+    ],
+    "lines": "B D",
+    "name": "170th St"
+  },
+  {
+    "align": "lm",
+    "latlng": [
+      -73.996353,
+      40.624842
+    ],
+    "lines": "D N",
+    "name": "New Utrecht Av"
+  },
+  {
+    "align": "lb",
+    "latlng": [
+      -73.972367,
+      40.67705
+    ],
+    "lines": "B Q",
+    "name": "7th Av"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.85062,
+      40.903125
+    ],
+    "lines": "2 5",
+    "name": "Wakefield-241st St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.945495,
+      40.807754
+    ],
+    "lines": "2 3",
+    "name": "125th St"
+  },
+  {
+    "align": "rt",
+    "latlng": [
+      -73.980492,
+      40.688246
+    ],
+    "lines": "2 3 4 5",
+    "name": "Nevins St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.927271,
+      40.865491
+    ],
+    "lines": "A",
+    "name": "Dyckman St-200th St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.950234,
+      40.700377
+    ],
+    "lines": "G",
+    "name": "Flushing Av"
+  },
+  {
+    "align": "rt",
+    "latlng": [
+      -73.914042,
+      40.805368
+    ],
+    "lines": "6",
+    "name": "Cypress Av"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.90177,
+      40.819585
+    ],
+    "lines": "2 5",
+    "name": "Prospect Av"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.939704,
+      40.847391
+    ],
+    "lines": "A",
+    "name": "175th St"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.968916,
+      40.785868
+    ],
+    "lines": "B C",
+    "name": "86th St"
+  },
+  {
+    "align": "rt",
+    "latlng": [
+      -73.92261,
+      40.664717
+    ],
+    "lines": "3",
+    "name": "Sutter Av"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.904834,
+      40.878856
+    ],
+    "lines": "1",
+    "name": "231st St"
+  },
+  {
+    "align": "lm",
+    "latlng": [
+      -73.97425,
+      40.58962
+    ],
+    "lines": "F",
+    "name": "Av X"
+  },
+  {
+    "align": "lm",
+    "latlng": [
+      -74.003401,
+      40.713243
+    ],
+    "lines": "J Z 4 5 6",
+    "name": "Chambers St"
+  },
+  {
+    "align": "lm",
+    "latlng": [
+      -73.973357,
+      40.596063
+    ],
+    "lines": "F",
+    "name": "Av U"
+  },
+  {
+    "align": "lm",
+    "latlng": [
+      -73.973022,
+      40.608944
+    ],
+    "lines": "F",
+    "name": "Av P"
+  },
+  {
+    "align": "lm",
+    "latlng": [
+      -73.974197,
+      40.61514
+    ],
+    "lines": "F",
+    "name": "Av N"
+  },
+  {
+    "align": "lm",
+    "latlng": [
+      -73.976127,
+      40.625322
+    ],
+    "lines": "F",
+    "name": "Av I"
+  },
+  {
+    "align": "lm",
+    "latlng": [
+      -73.943832,
+      40.746554
+    ],
+    "lines": "G",
+    "name": "Long Island City-Court Square"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.886283,
+      40.826525
+    ],
+    "lines": "6",
+    "name": "Whitlock Av"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.893064,
+      40.824073
+    ],
+    "lines": "2 5",
+    "name": "Simpson St"
+  },
+  {
+    "align": "lm",
+    "latlng": [
+      -73.951277,
+      40.724635
+    ],
+    "lines": "G",
+    "name": "Nassau Av"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.832163,
+      40.684331
+    ],
+    "lines": "A",
+    "name": "111th St-Greenwood Av"
+  },
+  {
+    "align": "lm",
+    "latlng": [
+      -73.899485,
+      40.650573
+    ],
+    "lines": "L",
+    "name": "East 105th St"
+  },
+  {
+    "align": "lb",
+    "latlng": [
+      -73.927351,
+      40.818375
+    ],
+    "lines": "2 4 5",
+    "name": "149th St-Grand Concourse"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.890064,
+      40.873412
+    ],
+    "lines": "4",
+    "name": "Bedford Park Blvd-Lehman College"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.986599,
+      40.739864
+    ],
+    "lines": "6",
+    "name": "23rd St"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.847036,
+      40.836488
+    ],
+    "lines": "6",
+    "name": "Zerega Av"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.86505,
+      40.677044
+    ],
+    "lines": "A",
+    "name": "Grant Av"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.93418,
+      40.859022
+    ],
+    "lines": "A",
+    "name": "190th St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.982209,
+      40.77344
+    ],
+    "lines": "1",
+    "name": "66th St-Lincoln Center"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -74.000495,
+      40.732338
+    ],
+    "lines": "A B C D E F M",
+    "name": "West 4th St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.937969,
+      40.851695
+    ],
+    "lines": "A",
+    "name": "181st St"
+  },
+  {
+    "align": "lm",
+    "latlng": [
+      -73.755405,
+      40.603995
+    ],
+    "lines": "A",
+    "name": "Far Rockaway-Mott Av"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.949046,
+      40.694568
+    ],
+    "lines": "G",
+    "name": "Myrtle-Willoughby Avs"
+  },
+  {
+    "align": "rt",
+    "latlng": [
+      -73.953581,
+      40.742626
+    ],
+    "lines": "7",
+    "name": "Vernon Blvd-Jackson Av"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.897749,
+      40.861296
+    ],
+    "lines": "B D",
+    "name": "Fordham Rd"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.992872,
+      40.665414
+    ],
+    "lines": "R",
+    "name": "Prospect Av"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.914685,
+      40.844434
+    ],
+    "lines": "4",
+    "name": "Mt Eden Av"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.937594,
+      40.804138
+    ],
+    "lines": "4 5 6",
+    "name": "125th St"
+  },
+  {
+    "align": "rm",
+    "latlng": [
+      -73.820574,
+      40.709179
+    ],
+    "lines": "F",
+    "name": "Briarwood-Van Wyck Blvd"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.869527,
+      40.749145
+    ],
+    "lines": "7",
+    "name": "Junction Blvd"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.941514,
+      40.830518
+    ],
+    "lines": "C",
+    "name": "155th St"
+  },
+  {
+    "align": "cb",
+    "latlng": [
+      -73.788522,
+      40.592374
+    ],
+    "lines": "A",
+    "name": "Beach 60th St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -74.003549,
+      40.655144
+    ],
+    "lines": "N R",
+    "name": "36th St"
+  },
+  {
+    "align": "ct",
+    "latlng": [
+      -74.011056,
+      40.706476
+    ],
+    "lines": "J Z",
+    "name": "Broad St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.917791,
+      40.840075
+    ],
+    "lines": "4",
+    "name": "170th St"
+  },
+  {
+    "align": "lb",
+    "latlng": [
+      -73.981963,
+      40.753821
+    ],
+    "lines": "B D F M 7",
+    "name": "5th Av"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.803326,
+      40.707564
+    ],
+    "lines": "F",
+    "name": "Parsons Blvd"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.858992,
+      40.679371
+    ],
+    "lines": "A",
+    "name": "80th St-Hudson St"
+  },
+  {
+    "align": "ct",
+    "latlng": [
+      -73.975939,
+      40.576127
+    ],
+    "lines": "F Q",
+    "name": "West 8th St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.86001,
+      40.692435
+    ],
+    "lines": "J",
+    "name": "Forest Parkway-85th St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.978172,
+      40.636119
+    ],
+    "lines": "F",
+    "name": "Ditmas Av"
+  },
+  {
+    "align": "rt",
+    "latlng": [
+      -73.990151,
+      40.692404
+    ],
+    "lines": "R 2 3 4 5",
+    "name": "Borough Hall"
+  },
+  {
+    "align": "lm",
+    "latlng": [
+      -73.988302,
+      40.670847
+    ],
+    "lines": "F G R",
+    "name": "9th St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.951822,
+      40.799075
+    ],
+    "lines": "2 3",
+    "name": "110th St-Central Park North"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.947642,
+      40.632836
+    ],
+    "lines": "2 5",
+    "name": "Flatbush Av-Brooklyn College"
+  },
+  {
+    "align": "lb",
+    "latlng": [
+      -73.920786,
+      40.678822
+    ],
+    "lines": "A C",
+    "name": "Ralph Av"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.979137,
+      40.597473
+    ],
+    "lines": "N",
+    "name": "Av U"
+  },
+  {
+    "align": "lm",
+    "latlng": [
+      -73.972361,
+      40.603217
+    ],
+    "lines": "F",
+    "name": "Kings Highway"
+  },
+  {
+    "align": "lm",
+    "latlng": [
+      -73.996786,
+      40.737335
+    ],
+    "lines": "F L M 1 2 3",
+    "name": "6th Av"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.768175,
+      40.595398
+    ],
+    "lines": "A",
+    "name": "Beach 36th St"
+  },
+  {
+    "align": "rt",
+    "latlng": [
+      -73.953431,
+      40.70687
+    ],
+    "lines": "J M",
+    "name": "Hewes St"
+  },
+  {
+    "align": "rt",
+    "latlng": [
+      -73.986829,
+      40.597704
+    ],
+    "lines": "D",
+    "name": "25th Av"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.933596,
+      40.849505
+    ],
+    "lines": "1",
+    "name": "181st St"
+  },
+  {
+    "align": "rm",
+    "latlng": [
+      -73.98795,
+      40.749567
+    ],
+    "lines": "B D F M N Q R",
+    "name": "34th St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.979678,
+      40.644041
+    ],
+    "lines": "F",
+    "name": "Church Av"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.867352,
+      40.865462
+    ],
+    "lines": "2 5",
+    "name": "Allerton Av"
+  },
+  {
+    "align": "lm",
+    "latlng": [
+      -73.911586,
+      40.699814
+    ],
+    "lines": "L M",
+    "name": "Myrtle Av"
+  },
+  {
+    "align": "lb",
+    "latlng": [
+      -73.831008,
+      40.714441
+    ],
+    "lines": "E F",
+    "name": "Kew Gardens-Union Turnpike"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -74.011029,
+      40.710668
+    ],
+    "lines": "R",
+    "name": "Cortlandt St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -74.007582,
+      40.710374
+    ],
+    "lines": "A C J Z 2 3 4 5",
+    "name": "Fulton St"
+  },
+  {
+    "align": "lb",
+    "latlng": [
+      -73.947408,
+      40.703869
+    ],
+    "lines": "J M",
+    "name": "Lorimer St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -74.002578,
+      40.739777
+    ],
+    "lines": "A C E L",
+    "name": "8th Av"
+  },
+  {
+    "align": "lb",
+    "latlng": [
+      -73.926138,
+      40.810476
+    ],
+    "lines": "6",
+    "name": "138th St-3rd Ave"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.851222,
+      40.834255
+    ],
+    "lines": "6",
+    "name": "Castle Hill Av"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.958158,
+      40.800605
+    ],
+    "lines": "B C",
+    "name": "Cathedral Parkway-110th St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.966847,
+      40.803967
+    ],
+    "lines": "1",
+    "name": "Cathedral Parkway-110th St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.908946,
+      40.662549
+    ],
+    "lines": "3",
+    "name": "Rockaway Av"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.827559,
+      40.583209
+    ],
+    "lines": "H",
+    "name": "Beach 105th St"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.905227,
+      40.85041
+    ],
+    "lines": "B D",
+    "name": "Tremont Av"
+  },
+  {
+    "align": "lb",
+    "latlng": [
+      -73.906006,
+      40.752885
+    ],
+    "lines": "M R",
+    "name": "Northern Blvd"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.903879,
+      40.858407
+    ],
+    "lines": "4",
+    "name": "183rd St"
+  },
+  {
+    "align": "lb",
+    "latlng": [
+      -73.922913,
+      40.706607
+    ],
+    "lines": "L",
+    "name": "Jefferson St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.929575,
+      40.756804
+    ],
+    "lines": "N Q",
+    "name": "36 Av-Washington Av"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.909831,
+      40.874561
+    ],
+    "lines": "1",
+    "name": "Marble Hill-225th St"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.993365,
+      40.747215
+    ],
+    "lines": "1",
+    "name": "28th St"
+  },
+  {
+    "align": "rt",
+    "latlng": [
+      -73.918425,
+      40.703811
+    ],
+    "lines": "L",
+    "name": "DeKalb Av"
+  },
+  {
+    "align": "rt",
+    "latlng": [
+      -73.995959,
+      40.67358
+    ],
+    "lines": "F G R",
+    "name": "Smith-9th St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.990862,
+      40.686145
+    ],
+    "lines": "F G",
+    "name": "Bergen St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.97192,
+      40.757107
+    ],
+    "lines": "E M 6",
+    "name": "51st St"
+  },
+  {
+    "align": "lm",
+    "latlng": [
+      -73.994659,
+      40.725915
+    ],
+    "lines": "B D F M 6",
+    "name": "Bleecker St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.991777,
+      40.6941
+    ],
+    "lines": "R 2 3 4 5",
+    "name": "Court St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -74.014034,
+      40.645069
+    ],
+    "lines": "R",
+    "name": "53rd St"
+  },
+  {
+    "align": "lb",
+    "latlng": [
+      -73.994324,
+      40.646292
+    ],
+    "lines": "D",
+    "name": "9th Av"
+  },
+  {
+    "align": "lm",
+    "latlng": [
+      -73.989344,
+      40.741303
+    ],
+    "lines": "N R",
+    "name": "23rd St"
+  },
+  {
+    "align": "cb",
+    "latlng": [
+      -73.950275,
+      40.714063
+    ],
+    "lines": "G L",
+    "name": "Lorimer St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -74.008811,
+      40.713051
+    ],
+    "lines": "A C E 1 2 3",
+    "name": "Park Place"
+  },
+  {
+    "align": "lm",
+    "latlng": [
+      -73.948411,
+      40.639967
+    ],
+    "lines": "2 5",
+    "name": "Newkirk Av"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.894895,
+      40.664635
+    ],
+    "lines": "3",
+    "name": "Pennsylvania Av"
+  },
+  {
+    "align": "lb",
+    "latlng": [
+      -73.967258,
+      40.76266
+    ],
+    "lines": "N Q R 4 5 6",
+    "name": "Lexington Av"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -74.005367,
+      40.728251
+    ],
+    "lines": "1",
+    "name": "Houston St"
+  },
+  {
+    "align": "ct",
+    "latlng": [
+      -74.013342,
+      40.70722
+    ],
+    "lines": "R",
+    "name": "Rector St"
+  },
+  {
+    "align": "lm",
+    "latlng": [
+      -73.981929,
+      40.768247
+    ],
+    "lines": "A B C D 1",
+    "name": "59th St-Columbus Circle"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.998864,
+      40.619589
+    ],
+    "lines": "D",
+    "name": "71st St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -74.013783,
+      40.707513
+    ],
+    "lines": "1",
+    "name": "Rector St"
+  },
+  {
+    "align": "cb",
+    "latlng": [
+      -73.891394,
+      40.746848
+    ],
+    "lines": "E F M R 7",
+    "name": "Broadway-74th St"
+  },
+  {
+    "align": "lb",
+    "latlng": [
+      -73.988114,
+      40.718611
+    ],
+    "lines": "F J M Z",
+    "name": "Delancey St"
+  },
+  {
+    "align": "lm",
+    "latlng": [
+      -73.975264,
+      40.620769
+    ],
+    "lines": "F",
+    "name": "Bay Parkway-22nd Av"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.955589,
+      40.779492
+    ],
+    "lines": "4 5 6",
+    "name": "86th St"
+  },
+  {
+    "align": "rt",
+    "latlng": [
+      -73.910456,
+      40.682893
+    ],
+    "lines": "J Z",
+    "name": "Chauncey St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.912034,
+      40.775036
+    ],
+    "lines": "N Q",
+    "name": "Ditmars Blvd"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.860341,
+      40.888022
+    ],
+    "lines": "2 5",
+    "name": "225th St"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.929412,
+      40.855225
+    ],
+    "lines": "1",
+    "name": "191st St"
+  },
+  {
+    "align": "lb",
+    "latlng": [
+      -73.981824,
+      40.690635
+    ],
+    "lines": "B Q R",
+    "name": "DeKalb Av"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.842952,
+      40.839892
+    ],
+    "lines": "6",
+    "name": "Westchester Square-East Tremont Av"
+  },
+  {
+    "align": "ct",
+    "latlng": [
+      -73.933147,
+      40.706152
+    ],
+    "lines": "L",
+    "name": "Morgan Av"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.990568,
+      40.735736
+    ],
+    "lines": "L N Q R 4 5 6",
+    "name": "Union Square"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.975939,
+      40.576127
+    ],
+    "lines": "F Q",
+    "name": "West 8th St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.901975,
+      40.669367
+    ],
+    "lines": "L",
+    "name": "Sutter Av"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.860816,
+      40.833226
+    ],
+    "lines": "6",
+    "name": "Parkchester-East 177th St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -74.010006,
+      40.648939
+    ],
+    "lines": "R",
+    "name": "45th St"
+  },
+  {
+    "align": "lb",
+    "latlng": [
+      -73.904084,
+      40.695602
+    ],
+    "lines": "L",
+    "name": "Halsey St"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.916327,
+      40.661453
+    ],
+    "lines": "3",
+    "name": "Saratoga Av"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.968379,
+      40.799446
+    ],
+    "lines": "1",
+    "name": "103rd St"
+  },
+  {
+    "align": "lb",
+    "latlng": [
+      -73.969055,
+      40.757552
+    ],
+    "lines": "E M 6",
+    "name": "Lexington Av-53rd St"
+  },
+  {
+    "align": "lm",
+    "latlng": [
+      -73.986885,
+      40.699743
+    ],
+    "lines": "F",
+    "name": "York St"
+  },
+  {
+    "align": "rt",
+    "latlng": [
+      -73.92227,
+      40.68963
+    ],
+    "lines": "J Z",
+    "name": "Gates Av"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.890358,
+      40.67271
+    ],
+    "lines": "A C",
+    "name": "Van Siclen Av"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.994304,
+      40.640914
+    ],
+    "lines": "D",
+    "name": "Fort Hamilton Parkway"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.976971,
+      40.629755
+    ],
+    "lines": "F",
+    "name": "18th Av"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.828294,
+      40.700492
+    ],
+    "lines": "J Z",
+    "name": "121st St"
+  },
+  {
+    "align": "rm",
+    "latlng": [
+      -73.93985,
+      40.707739
+    ],
+    "lines": "L",
+    "name": "Montrose Av"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.93647,
+      40.82388
+    ],
+    "lines": "3",
+    "name": "Harlem-148th St"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.860495,
+      40.854364
+    ],
+    "lines": "5",
+    "name": "Morris Park"
+  },
+  {
+    "align": "rt",
+    "latlng": [
+      -73.981233,
+      40.577422
+    ],
+    "lines": "D F N Q",
+    "name": "Stillwell Av"
+  },
+  {
+    "align": "rm",
+    "latlng": [
+      -73.967967,
+      40.762526
+    ],
+    "lines": "N Q R 4 5 6",
+    "name": "59th St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.944216,
+      40.824783
+    ],
+    "lines": "A B C D",
+    "name": "145th St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.896736,
+      40.822181
+    ],
+    "lines": "2 5",
+    "name": "Intervale Av"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.90185,
+      40.646654
+    ],
+    "lines": "L",
+    "name": "Canarsie - Rockaway Parkway"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.796924,
+      40.590927
+    ],
+    "lines": "A",
+    "name": "Beach 67th St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.907684,
+      40.853453
+    ],
+    "lines": "4",
+    "name": "Burnside Av"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.959874,
+      40.77362
+    ],
+    "lines": "6",
+    "name": "77th St"
+  },
+  {
+    "align": "ct",
+    "latlng": [
+      -73.999892,
+      40.718092
+    ],
+    "lines": "J N Q R Z 6",
+    "name": "Canal St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.873785,
+      40.683194
+    ],
+    "lines": "J Z",
+    "name": "Crescent St"
+  },
+  {
+    "align": "lb",
+    "latlng": [
+      -73.941126,
+      40.70026
+    ],
+    "lines": "J M",
+    "name": "Flushing Av"
+  },
+  {
+    "align": "lm",
+    "latlng": [
+      -73.976041,
+      40.751431
+    ],
+    "lines": "GS 4 5 6 7",
+    "name": "Grand Central-42nd St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.887734,
+      40.837288
+    ],
+    "lines": "2 5",
+    "name": "174th St"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.918819,
+      40.864614
+    ],
+    "lines": "1",
+    "name": "207th St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.879159,
+      40.828584
+    ],
+    "lines": "6",
+    "name": "Elder Av"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.854376,
+      40.898379
+    ],
+    "lines": "2 5",
+    "name": "238th St-Nereid Av"
+  },
+  {
+    "align": "lm",
+    "latlng": [
+      -73.948959,
+      40.645098
+    ],
+    "lines": "2 5",
+    "name": "Beverly Rd"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.897174,
+      40.86776
+    ],
+    "lines": "4",
+    "name": "Kingsbridge Rd"
+  },
+  {
+    "align": "rt",
+    "latlng": [
+      -73.993728,
+      40.601875
+    ],
+    "lines": "D",
+    "name": "Bay Parkway"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.855359,
+      40.858985
+    ],
+    "lines": "5",
+    "name": "Pelham Parkway"
+  },
+  {
+    "align": "lm",
+    "latlng": [
+      -73.959399,
+      40.617618
+    ],
+    "lines": "B Q",
+    "name": "Av M"
+  },
+  {
+    "align": "lb",
+    "latlng": [
+      -73.830301,
+      40.660476
+    ],
+    "lines": "A",
+    "name": "Howard Beach"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.890549,
+      40.820948
+    ],
+    "lines": "6",
+    "name": "Hunts Point Av"
+  },
+  {
+    "align": "rm",
+    "latlng": [
+      -74.017881,
+      40.641362
+    ],
+    "lines": "N R",
+    "name": "59th St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.912549,
+      40.744149
+    ],
+    "lines": "7",
+    "name": "Lincoln Av-52nd St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.935657,
+      40.697207
+    ],
+    "lines": "J M Z",
+    "name": "Myrtle Av"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.9214,
+      40.835537
+    ],
+    "lines": "4",
+    "name": "167th St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.820558,
+      40.585307
+    ],
+    "lines": "H",
+    "name": "Beach 98th St"
+  },
+  {
+    "align": "lb",
+    "latlng": [
+      -73.979189,
+      40.752769
+    ],
+    "lines": "GS 4 5 6 7",
+    "name": "Grand Central"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.921479,
+      40.766779
+    ],
+    "lines": "N Q",
+    "name": "30 Av-Grand Av"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.836345,
+      40.697418
+    ],
+    "lines": "J",
+    "name": "111th St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.891865,
+      40.829993
+    ],
+    "lines": "2 5",
+    "name": "Freeman St"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.807969,
+      40.700486
+    ],
+    "lines": "E J Z",
+    "name": "Sutphin Blvd-Archer Av - JFK"
+  },
+  {
+    "align": "lm",
+    "latlng": [
+      -73.95085,
+      40.662742
+    ],
+    "lines": "2 5",
+    "name": "Sterling St"
+  },
+  {
+    "align": "lb",
+    "latlng": [
+      -73.932942,
+      40.668897
+    ],
+    "lines": "3 4",
+    "name": "Utica Av"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.936245,
+      40.820421
+    ],
+    "lines": "3",
+    "name": "145th St"
+  },
+  {
+    "align": "lm",
+    "latlng": [
+      -73.937243,
+      40.748973
+    ],
+    "lines": "E M R",
+    "name": "Queens Plaza"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.947649,
+      40.817894
+    ],
+    "lines": "B C",
+    "name": "135th St"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.961376,
+      40.577621
+    ],
+    "lines": "B Q",
+    "name": "Brighton Beach"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.887138,
+      40.873244
+    ],
+    "lines": "B D",
+    "name": "Bedford Park Blvd"
+  },
+  {
+    "align": "lb",
+    "latlng": [
+      -73.950466,
+      40.669847
+    ],
+    "lines": "3",
+    "name": "Nostrand Av"
+  },
+  {
+    "align": "lb",
+    "latlng": [
+      -73.925651,
+      40.827905
+    ],
+    "lines": "B D 4",
+    "name": "Yankee Stadium-161st St"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.948916,
+      40.742216
+    ],
+    "lines": "7",
+    "name": "Hunters Point"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.810708,
+      40.70546
+    ],
+    "lines": "F",
+    "name": "Sutphin Blvd"
+  },
+  {
+    "align": "cb",
+    "latlng": [
+      -73.990531,
+      40.699337
+    ],
+    "lines": "A C J Z 2 3 4 5",
+    "name": "High St"
+  },
+  {
+    "align": "lb",
+    "latlng": [
+      -73.993915,
+      40.72028
+    ],
+    "lines": "J Z",
+    "name": "Bowery"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.993753,
+      40.718267
+    ],
+    "lines": "B D",
+    "name": "Grand St"
+  },
+  {
+    "align": "lm",
+    "latlng": [
+      -73.83003,
+      40.7596
+    ],
+    "lines": "7",
+    "name": "Flushing-Main St"
+  },
+  {
+    "align": "lb",
+    "latlng": [
+      -73.96611,
+      40.764627
+    ],
+    "lines": "F",
+    "name": "Lexington Av"
+  },
+  {
+    "align": "cb",
+    "latlng": [
+      -73.944053,
+      40.714565
+    ],
+    "lines": "L",
+    "name": "Graham Av"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.866256,
+      40.87785
+    ],
+    "lines": "2 5",
+    "name": "Gun Hill Rd"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.972323,
+      40.793919
+    ],
+    "lines": "1 2 3",
+    "name": "96th St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.90087,
+      40.884667
+    ],
+    "lines": "1",
+    "name": "238th St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.949625,
+      40.802098
+    ],
+    "lines": "2 3",
+    "name": "116th St"
+  },
+  {
+    "align": "cb",
+    "latlng": [
+      -73.911946,
+      40.67834
+    ],
+    "lines": "A C",
+    "name": "Rockaway Av"
+  },
+  {
+    "align": "lb",
+    "latlng": [
+      -73.942161,
+      40.669399
+    ],
+    "lines": "3",
+    "name": "Kingston Av"
+  },
+  {
+    "align": "lb",
+    "latlng": [
+      -74.012994,
+      40.703087
+    ],
+    "lines": "R 1",
+    "name": "Whitehall St"
+  },
+  {
+    "align": "lb",
+    "latlng": [
+      -73.835812,
+      40.672131
+    ],
+    "lines": "A",
+    "name": "Aqueduct Racetrack"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.837683,
+      40.681711
+    ],
+    "lines": "A",
+    "name": "104th St-Oxford Av"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.992821,
+      40.742878
+    ],
+    "lines": "F M",
+    "name": "23rd St"
+  },
+  {
+    "align": "lb",
+    "latlng": [
+      -74.005229,
+      40.720824
+    ],
+    "lines": "A C E",
+    "name": "Canal St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -74.001775,
+      40.719527
+    ],
+    "lines": "J N Q R Z 6",
+    "name": "Canal St (UL)"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.911794,
+      40.84848
+    ],
+    "lines": "4",
+    "name": "176th St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.996204,
+      40.725297
+    ],
+    "lines": "B D F M 6",
+    "name": "Broadway-Lafayette St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.961495,
+      40.655292
+    ],
+    "lines": "B Q",
+    "name": "Parkside Av"
+  },
+  {
+    "align": "rm",
+    "latlng": [
+      -73.976848,
+      40.751776
+    ],
+    "lines": "GS 4 5 6 7",
+    "name": "Grand Central-42nd St"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.925536,
+      40.860531
+    ],
+    "lines": "1",
+    "name": "Dyckman St"
+  },
+  {
+    "align": "lb",
+    "latlng": [
+      -73.938209,
+      40.830135
+    ],
+    "lines": "B D",
+    "name": "155th St"
+  },
+  {
+    "align": "ct",
+    "latlng": [
+      -74.013664,
+      40.702068
+    ],
+    "lines": "R 1",
+    "name": "South Ferry"
+  },
+  {
+    "align": "lm",
+    "latlng": [
+      -73.9502,
+      40.656652
+    ],
+    "lines": "2 5",
+    "name": "Winthrop St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.919711,
+      40.698664
+    ],
+    "lines": "M",
+    "name": "Knickerbocker Av"
+  },
+  {
+    "align": "lb",
+    "latlng": [
+      -73.877223,
+      40.737015
+    ],
+    "lines": "M R",
+    "name": "Grand Av-Newtown"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.867164,
+      40.871356
+    ],
+    "lines": "2 5",
+    "name": "Burke Av"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.917843,
+      40.770258
+    ],
+    "lines": "N Q",
+    "name": "Astoria Blvd-Hoyt Av"
+  },
+  {
+    "align": "cb",
+    "latlng": [
+      -73.900571,
+      40.664038
+    ],
+    "lines": "L",
+    "name": "Livonia Av"
+  },
+  {
+    "align": "lm",
+    "latlng": [
+      -73.990173,
+      40.713715
+    ],
+    "lines": "F",
+    "name": "East Broadway"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -74.006277,
+      40.722854
+    ],
+    "lines": "1",
+    "name": "Canal St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.813641,
+      40.588034
+    ],
+    "lines": "H",
+    "name": "Beach 90th St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.929849,
+      40.813224
+    ],
+    "lines": "4 5",
+    "name": "138th St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.953522,
+      40.689627
+    ],
+    "lines": "G",
+    "name": "Bedford-Nostrand Avs"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.998041,
+      40.745906
+    ],
+    "lines": "C E",
+    "name": "23rd St"
+  },
+  {
+    "align": "rt",
+    "latlng": [
+      -73.97881,
+      40.683666
+    ],
+    "lines": "B Q D N R 2 3 4 5",
+    "name": "Atlantic Av-Barclays Ctr"
+  },
+  {
+    "align": "lm",
+    "latlng": [
+      -73.954155,
+      40.586896
+    ],
+    "lines": "B Q",
+    "name": "Sheepshead Bay"
+  },
+  {
+    "align": "lb",
+    "latlng": [
+      -74.006571,
+      40.709416
+    ],
+    "lines": "A C J Z 2 3 4 5",
+    "name": "Fulton St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.876613,
+      40.748408
+    ],
+    "lines": "7",
+    "name": "90th St Elmhurst"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.966839,
+      40.688089
+    ],
+    "lines": "G",
+    "name": "Clinton-Washington Avs"
+  },
+  {
+    "align": "lm",
+    "latlng": [
+      -73.957734,
+      40.60867
+    ],
+    "lines": "B Q",
+    "name": "Kings Highway"
+  },
+  {
+    "align": "lm",
+    "latlng": [
+      -73.985026,
+      40.61741
+    ],
+    "lines": "N",
+    "name": "20th Av"
+  },
+  {
+    "align": "lb",
+    "latlng": [
+      -73.984139,
+      40.759901
+    ],
+    "lines": "N Q R",
+    "name": "49th St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.95036,
+      40.826551
+    ],
+    "lines": "1",
+    "name": "145th St"
+  },
+  {
+    "align": "rt",
+    "latlng": [
+      -74.005351,
+      40.631386
+    ],
+    "lines": "N",
+    "name": "Fort Hamilton Parkway"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -74.02551,
+      40.629742
+    ],
+    "lines": "R",
+    "name": "77th St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.976218,
+      40.788644
+    ],
+    "lines": "1",
+    "name": "86th St"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.889395,
+      40.665449
+    ],
+    "lines": "3",
+    "name": "Van Siclen Av"
+  },
+  {
+    "align": "cb",
+    "latlng": [
+      -73.828121,
+      40.852462
+    ],
+    "lines": "6",
+    "name": "Pelham Bay Park"
+  },
+  {
+    "align": "lb",
+    "latlng": [
+      -73.95326,
+      40.759145
+    ],
+    "lines": "F",
+    "name": "Roosevelt Island"
+  },
+  {
+    "align": "lb",
+    "latlng": [
+      -73.834058,
+      40.668234
+    ],
+    "lines": "A",
+    "name": "Aqueduct-North Conduit Av"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.993391,
+      40.752287
+    ],
+    "lines": "A C E",
+    "name": "34th St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.940133,
+      40.840556
+    ],
+    "lines": "A C 1",
+    "name": "168th St"
+  },
+  {
+    "align": "lb",
+    "latlng": [
+      -73.987342,
+      40.692338
+    ],
+    "lines": "A C F R",
+    "name": "Jay St - Borough Hall"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.975375,
+      40.687119
+    ],
+    "lines": "G",
+    "name": "Fulton St"
+  },
+  {
+    "align": "lm",
+    "latlng": [
+      -73.896548,
+      40.674542
+    ],
+    "lines": "A C",
+    "name": "Liberty Av"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.884655,
+      40.87975
+    ],
+    "lines": "4",
+    "name": "Mosholu Parkway"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.836322,
+      40.843863
+    ],
+    "lines": "6",
+    "name": "Middletown Rd"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.989735,
+      40.757308
+    ],
+    "lines": "A C E N Q R S 1 2 3",
+    "name": "42nd St"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.867618,
+      40.831509
+    ],
+    "lines": "6",
+    "name": "St Lawrence Av"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.855334,
+      40.75173
+    ],
+    "lines": "7",
+    "name": "111th St"
+  },
+  {
+    "align": "lb",
+    "latlng": [
+      -73.956848,
+      40.68138
+    ],
+    "lines": "A C FS",
+    "name": "Franklin Av"
+  },
+  {
+    "align": "lb",
+    "latlng": [
+      -73.815925,
+      40.608382
+    ],
+    "lines": "A H",
+    "name": "Broad Channel"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.991057,
+      40.750373
+    ],
+    "lines": "1 2 3",
+    "name": "34th St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.983765,
+      40.588841
+    ],
+    "lines": "D",
+    "name": "Bay 50th St"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.995657,
+      40.744081
+    ],
+    "lines": "1",
+    "name": "23rd St"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.776013,
+      40.592943
+    ],
+    "lines": "A",
+    "name": "Beach 44th St"
+  },
+  {
+    "align": "lb",
+    "latlng": [
+      -73.981628,
+      40.730953
+    ],
+    "lines": "L",
+    "name": "1st Av"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.88075,
+      40.67413
+    ],
+    "lines": "A C",
+    "name": "Shepherd Av"
+  },
+  {
+    "align": "lb",
+    "latlng": [
+      -73.989951,
+      40.734673
+    ],
+    "lines": "L N Q R 4 5 6",
+    "name": "14th St-Union Square"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -74.00169,
+      40.740893
+    ],
+    "lines": "A C E L",
+    "name": "14th St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.902984,
+      40.74563
+    ],
+    "lines": "7",
+    "name": "Woodside Av-61st St"
+  },
+  {
+    "align": "lb",
+    "latlng": [
+      -73.958131,
+      40.670682
+    ],
+    "lines": "FS 2 3 4 5",
+    "name": "Franklin Av"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.896435,
+      40.816104
+    ],
+    "lines": "6",
+    "name": "Longwood Av"
+  },
+  {
+    "align": "lm",
+    "latlng": [
+      -73.889601,
+      40.711396
+    ],
+    "lines": "M",
+    "name": "Metropolitan Av"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.980658,
+      40.764664
+    ],
+    "lines": "N Q R",
+    "name": "57th St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.878751,
+      40.886037
+    ],
+    "lines": "4",
+    "name": "Woodlawn"
+  },
+  {
+    "align": "rt",
+    "latlng": [
+      -73.905316,
+      40.678334
+    ],
+    "lines": "A C J L",
+    "name": "Broadway Junction-East New York"
+  },
+  {
+    "align": "rm",
+    "latlng": [
+      -73.959245,
+      40.670343
+    ],
+    "lines": "FS 2 3 4 5",
+    "name": "Botanic Gardens"
+  },
+  {
+    "align": "rt",
+    "latlng": [
+      -73.956872,
+      40.717304
+    ],
+    "lines": "L",
+    "name": "Bedford Av"
+  },
+  {
+    "align": "lm",
+    "latlng": [
+      -73.988691,
+      40.745494
+    ],
+    "lines": "N R",
+    "name": "28th St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.983849,
+      40.761728
+    ],
+    "lines": "1",
+    "name": "50th St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -74.00061,
+      40.613501
+    ],
+    "lines": "D",
+    "name": "79th St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.995476,
+      40.631435
+    ],
+    "lines": "D",
+    "name": "55th St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.980353,
+      40.603923
+    ],
+    "lines": "N",
+    "name": "Kings Highway"
+  },
+  {
+    "align": "rm",
+    "latlng": [
+      -74.000193,
+      40.718803
+    ],
+    "lines": "J N Q R Z 6",
+    "name": "Canal St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.925508,
+      40.76182
+    ],
+    "lines": "N Q",
+    "name": "Broadway"
+  },
+  {
+    "align": "lb",
+    "latlng": [
+      -74.007691,
+      40.710197
+    ],
+    "lines": "A C J Z 2 3 4 5",
+    "name": "Broadway-Nassau"
+  },
+  {
+    "align": "rt",
+    "latlng": [
+      -73.928814,
+      40.693342
+    ],
+    "lines": "J",
+    "name": "Kosciusko St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -74.023377,
+      40.634967
+    ],
+    "lines": "R",
+    "name": "Bay Ridge Av"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.997141,
+      40.722301
+    ],
+    "lines": "6",
+    "name": "Spring St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.851576,
+      40.693879
+    ],
+    "lines": "J Z",
+    "name": "Woodhaven Blvd"
+  },
+  {
+    "align": "rt",
+    "latlng": [
+      -73.925831,
+      40.827994
+    ],
+    "lines": "B  D 4",
+    "name": "Yankee Stadium-161st St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.835592,
+      40.580903
+    ],
+    "lines": "H",
+    "name": "Rockaway Park-Beach 116th"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.987495,
+      40.75529
+    ],
+    "lines": "A C E N Q R S 1 2 3",
+    "name": "Times Square"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.862633,
+      40.883895
+    ],
+    "lines": "2 5",
+    "name": "219th St"
+  },
+  {
+    "align": "lm",
+    "latlng": [
+      -73.955161,
+      40.595246
+    ],
+    "lines": "B Q",
+    "name": "Neck Rd"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.963891,
+      40.640927
+    ],
+    "lines": "B Q",
+    "name": "Cortelyou Rd"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.898583,
+      40.889248
+    ],
+    "lines": "1",
+    "name": "Van Cortlandt Park-242nd St"
+  },
+  {
+    "align": "rt",
+    "latlng": [
+      -73.985065,
+      40.690545
+    ],
+    "lines": "2 3",
+    "name": "Hoyt St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.932755,
+      40.752882
+    ],
+    "lines": "N Q",
+    "name": "39 Av-Beebe Av"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.898654,
+      40.676992
+    ],
+    "lines": "J",
+    "name": "Alabama Av"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -74.004131,
+      40.713065
+    ],
+    "lines": "J Z 4 5 6",
+    "name": "Brooklyn Bridge-City Hall"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.98311,
+      40.677316
+    ],
+    "lines": "R",
+    "name": "Union St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.953676,
+      40.822008
+    ],
+    "lines": "1",
+    "name": "137th St-City College"
+  },
+  {
+    "align": "lm",
+    "latlng": [
+      -73.960803,
+      40.625039
+    ],
+    "lines": "B Q",
+    "name": "Av J"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.972143,
+      40.781433
+    ],
+    "lines": "B C",
+    "name": "81st St - Museum of Natural History"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.961639,
+      40.62927
+    ],
+    "lines": "B Q",
+    "name": "Av H"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.954882,
+      40.805085
+    ],
+    "lines": "B C",
+    "name": "116th St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.989998,
+      40.693219
+    ],
+    "lines": "R 2 3 4 5",
+    "name": "Borough Hall"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.982076,
+      40.746081
+    ],
+    "lines": "6",
+    "name": "33rd St"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.915279,
+      40.869444
+    ],
+    "lines": "1",
+    "name": "215th St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.975776,
+      40.650782
+    ],
+    "lines": "F",
+    "name": "Fort Hamilton Parkway"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.984264,
+      40.74307
+    ],
+    "lines": "6",
+    "name": "28th St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.997702,
+      40.724329
+    ],
+    "lines": "N R",
+    "name": "Prince St"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.918432,
+      40.833769
+    ],
+    "lines": "B D",
+    "name": "167th St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -74.009509,
+      40.710368
+    ],
+    "lines": "A C J Z 2 3 4 5",
+    "name": "Fulton St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -74.001736,
+      40.607954
+    ],
+    "lines": "D",
+    "name": "18th Av"
+  },
+  {
+    "align": "lm",
+    "latlng": [
+      -73.986229,
+      40.755983
+    ],
+    "lines": "A C E N Q R GS 1 2 3",
+    "name": "Times Square"
+  },
+  {
+    "align": "lm",
+    "latlng": [
+      -73.955929,
+      40.5993
+    ],
+    "lines": "B Q",
+    "name": "Av U"
+  },
+  {
+    "align": "rt",
+    "latlng": [
+      -73.971046,
+      40.675235
+    ],
+    "lines": "2 3",
+    "name": "Grand Army Plaza"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -74.008585,
+      40.714111
+    ],
+    "lines": "A C E 2 3",
+    "name": "Chambers St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.919899,
+      40.868072
+    ],
+    "lines": "A",
+    "name": "Inwood - 207th St"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.838591,
+      40.878663
+    ],
+    "lines": "5",
+    "name": "Baychester Av"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.981329,
+      40.758663
+    ],
+    "lines": "B D F M",
+    "name": "47-50th Sts Rockefeller Center"
+  },
+  {
+    "align": "rt",
+    "latlng": [
+      -73.946,
+      40.747846
+    ],
+    "lines": "E G M 7",
+    "name": "23rd St-Ely Av"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.992629,
+      40.730328
+    ],
+    "lines": "N R",
+    "name": "8th St"
+  },
+  {
+    "align": "rt",
+    "latlng": [
+      -73.980305,
+      40.666271
+    ],
+    "lines": "F",
+    "name": "7th Av"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.96387,
+      40.768141
+    ],
+    "lines": "6",
+    "name": "68th St-Hunter College"
+  },
+  {
+    "align": "rt",
+    "latlng": [
+      -73.955827,
+      40.680596
+    ],
+    "lines": "A FS",
+    "name": "Franklin Av"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -74.009781,
+      40.712582
+    ],
+    "lines": "A C E 2 3",
+    "name": "World Trade Center"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.962982,
+      40.650527
+    ],
+    "lines": "B Q",
+    "name": "Church Av"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -74.011862,
+      40.707557
+    ],
+    "lines": "4 5",
+    "name": "Wall St"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.962793,
+      40.635082
+    ],
+    "lines": "B Q",
+    "name": "Newkirk Av"
+  },
+  {
+    "align": "lb",
+    "latlng": [
+      -73.830834,
+      40.8883
+    ],
+    "lines": "5",
+    "name": "Eastchester-Dyre Av"
+  },
+  {
+    "align": "lm",
+    "latlng": [
+      -73.957624,
+      40.674772
+    ],
+    "lines": "FS",
+    "name": "Park Place"
+  },
+  {
+    "align": "lm",
+    "latlng": [
+      -73.783817,
+      40.712646
+    ],
+    "lines": "F",
+    "name": "Jamaica-179th St"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.891338,
+      40.746644
+    ],
+    "lines": "E F M R 7",
+    "name": "Jackson Heights-Roosevelt Ave"
+  },
+  {
+    "align": "lt",
+    "latlng": [
+      -73.872106,
+      40.675377
+    ],
+    "lines": "A C",
+    "name": "Euclid Av"
+  },
+  {
+    "align": "cb",
+    "latlng": [
+      -73.973347,
+      40.764811
+    ],
+    "lines": "N Q R",
+    "name": "5th Av"
+  },
+  {
+    "align": "rb",
+    "latlng": [
+      -73.867615,
+      40.857192
+    ],
+    "lines": "2 5",
+    "name": "Pelham Parkway"
+  }
+]

@@ -17,8 +17,21 @@
   var svg = d3.select("#figure").append("svg")
               .attr("width", width)
               .attr("height", height),
-      features = svg.append("g"),
-      map_group = features.append("g"),
+      map_group = svg.append("g");
+
+  // Zooming.
+  var zoom = d3.behavior.zoom()
+      .translate([0, 0])
+      .scale(1)
+      .scaleExtent([1, 8])
+      .on("zoom", zoomed);
+  svg.append("rect")
+      .attr("class", "overlay")
+      .attr("width", width)
+      .attr("height", height)
+      .call(zoom);
+
+  var features = svg.append("g"),
       lines_group = features.append("g"),
       stations_group = features.append("g");
 
@@ -45,51 +58,75 @@
     lines_sel.exit().remove();
 
     // Draw the stations.
-    var points = stations_group.selectAll(".station").data(stations);
-    points.enter().append("circle")
-          .attr("class", "station")
-          .attr("r", 2);
-    points.attr("transform",
-      function(d) { return "translate(" + projection(d.latlng) + ")"; });
-    points.exit().remove();
+    var sel = stations_group.selectAll(".station").data(stations),
+        g = sel.enter().append("g").attr("class", "station")
+               .on("mouseover", function () {
+                 var sel = d3.select(this).select("text"),
+                     op = sel.style("opacity");
+                 sel.attr("data-opacity", op).style("opacity", 1);
+               })
+               .on("mouseout", function () {
+                 var sel = d3.select(this).select("text"),
+                     op = sel.attr("data-opacity");
+                 sel.style("opacity", op);
+               })
+    g.append("circle");
+    g.append("text").attr("class", "label");
 
-    // Add the labels.
-    var labels = stations_group.selectAll(".label").data(stations);
-    labels.enter().append("text")
-          .attr("class", "label");
-    labels.attr("transform",
-        function(d) {
-          return "translate("+projection(d.latlng)+")"; }
-      )
-      .attr("text-anchor", function (d) { return "end"; })
-      .text(function (d) { return d.name; });
-    labels.exit().remove();
+    sel.selectAll("circle")
+       .attr("r", 2)
+       .attr("transform", function(d) {
+         return "translate(" + projection(d.latlng) + ")";
+       });
+    format_labels(sel.selectAll("text"));
+
+    sel.exit().remove();
   }
 
-  // Zooming.
-  var zoom = d3.behavior.zoom()
-      .translate([0, 0])
-      .scale(1)
-      .scaleExtent([1, 8])
-      .on("zoom", zoomed);
-  svg.append("rect")
-      .attr("class", "overlay")
-      .attr("width", width)
-      .attr("height", height)
-      .call(zoom);
+  function format_labels (sel) {
+    var scale = 1;
+    if (arguments.length > 1) scale = arguments[1];
+    sel.attr("transform",
+        function(d) {
+          var coords = projection(d.latlng);
+
+          // Horizontal align.
+          if (d.align[0] == "r") coords[0] -= 4 / scale;
+          else if (d.align[0] == "l") coords[0] += 3 / scale;
+
+          // Vertical align.
+          if (d.align[1] == "b") coords[1] -= 4 / scale;
+          else if (d.align[1] == "m") coords[1] += 3 / scale;
+          else coords[1] += 11 / scale;
+
+          return "translate("+coords+")";
+        })
+       .attr("text-anchor", function (d) {
+        if (d.align[0] == "r")
+          return "end";
+        else if (d.align[0] == "c")
+          return "middle";
+        return "start";
+       })
+       .text(function (d) { return d.name; });
+  }
 
   function zoomed() {
-    features.attr("transform", "translate(" + d3.event.translate + ")"
-                  + "scale(" + d3.event.scale + ")");
+    var t = "translate("+d3.event.translate+")"+"scale("+d3.event.scale+")";
+    map_group.attr("transform", t);
+    features.attr("transform", t);
     map_group.selectAll(".borough")
              .style("stroke-width", 0.5/d3.event.scale + "px");
     lines_group.selectAll(".line")
-               .style("stroke-width", 2.5/d3.event.scale + "px");
-    stations_group.selectAll(".station")
+               .style("stroke-width", 1.5/d3.event.scale + "px");
+    stations_group.selectAll("circle")
                   .attr("r", 2/d3.event.scale + "px")
                   .style("stroke-width", 1/d3.event.scale + "px");
-    stations_group.selectAll(".label")
-                  .style("font-size", 9/d3.event.scale + "px");
+    var op = 0.2+0.8/(1+Math.exp(3-d3.event.scale));
+    var sel = stations_group.selectAll(".label")
+                            .style("font-size", 9/d3.event.scale + "px")
+                            .style("opacity", op);
+    format_labels(sel, d3.event.scale);
   }
 
 })();

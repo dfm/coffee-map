@@ -28,6 +28,10 @@ body {
 }
 
 .station {
+  cursor: pointer;
+}
+
+.station circle {
   fill: #ddd;
   stroke: #444;
   stroke-width: 1px;
@@ -37,14 +41,14 @@ body {
 .label {
   font-family: "Helvetica Neue", Helvetica, sans-serif;
   color: #333;
-  text-transform: uppercase;
   font-size: 9px;
+  opacity: 0.29536;
 }
 
 .line {
   fill: none;
   stroke: #ccc;
-  stroke-width: 2.5px;
+  stroke-width: 1.5px;
   stroke-linejoin: round;
   stroke-linecap: round;
 }

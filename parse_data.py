@@ -15,7 +15,7 @@ for line in open("shapes.txt").readlines()[1:]:
     cols = line.split(",")
     k = cols[0]
     l = k[:3].strip(".")
-    if k[-1] != "R" or l not in colors:
+    if k[3] != "N" or l not in colors:
         continue
     coords[k].append([float(cols[2]), float(cols[1])])
 json.dump([{
@@ -31,4 +31,5 @@ for line in open("StationEntrances.csv").readlines()[1:]:
     stations[k]["latlng"] = [float(cols[4]), float(cols[3])]
     stations[k]["lines"] = " ".join(filter(len, cols[5:15]))
     stations[k]["name"] = cols[2]
-json.dump(stations.values(), open("stations-temp.json", "w"))
+    stations[k]["align"] = "rb"  # cm, lt
+json.dump(stations.values(), open("stations-temp.json", "w"), indent=2)
