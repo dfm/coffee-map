@@ -37,9 +37,9 @@
 
   var nyc = null, lines = null, stations = null;
 
-  d3.json("nyc.json", function(error, value) { nyc = value; draw(); });
-  d3.json("shapes.json", function (error, value) { lines = value; draw(); });
-  d3.json("stations.json", function (error, value) { stations = value; draw(); });
+  d3.json("data/nyc.json", function(error, value) { nyc = value; draw(); });
+  d3.json("data/shapes.json", function (error, value) { lines = value; draw(); });
+  d3.json("data/stations.json", function (error, value) { stations = value; draw(); });
 
   function draw () {
     if (nyc == null || lines == null || stations == null) return;
