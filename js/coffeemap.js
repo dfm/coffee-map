@@ -35,14 +35,16 @@
       lines_group = features.append("g"),
       stations_group = features.append("g");
 
-  var nyc = null, lines = null, stations = null;
+  var nyc = null, lines = null, stations = null, all_venues = null, venues = null;
 
   d3.json("data/nyc.json", function(error, value) { nyc = value; draw(); });
   d3.json("data/shapes.json", function (error, value) { lines = value; draw(); });
   d3.json("data/stations.json", function (error, value) { stations = value; draw(); });
+  d3.json("data/venues.json", function (error, value) { all_venues = value; draw(); });
+  d3.json("data/grid/600-1.json", function (error, value) { venues = value; draw(); });
 
   function draw () {
-    if (nyc == null || lines == null || stations == null) return;
+    if (nyc == null || lines == null || stations == null || all_venues == null || venues == null) return;
 
     // Draw the map.
     var boroughs = map_group.selectAll(".borough").data(nyc.features);
@@ -108,7 +110,7 @@
           return "middle";
         return "start";
        })
-       .text(function (d) { return d.name; });
+       .text(function (d, i) { return all_venues[venues[i]].name; });
   }
 
   function zoomed() {
