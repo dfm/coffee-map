@@ -5,7 +5,8 @@
   var lazy = 11-4, snob = 11-6;
 
   var width = 800,
-      height = 500;
+      height = 500,
+      scale = 1;
   var opmax = 0.8, opstart = 0.5, opwidth = 0.4;
 
   var projection = d3.geo.mercator()
@@ -100,8 +101,7 @@
   }
 
   function format_labels (sel) {
-    var scale = 1, venues = grid[lazy][snob];
-    if (arguments.length > 1) scale = arguments[1];
+    var venues = grid[lazy][snob];
     sel.attr("transform",
         function(d) {
           var coords = projection(d.latlng);
@@ -128,21 +128,23 @@
   }
 
   function zoomed() {
-    var t = "translate("+d3.event.translate+")"+"scale("+d3.event.scale+")";
+    scale = d3.event.scale;
+
+    var t = "translate("+d3.event.translate+")"+"scale("+scale+")";
     map_group.attr("transform", t);
     features.attr("transform", t);
     map_group.selectAll(".borough")
-             .style("stroke-width", 0.5/d3.event.scale + "px");
+             .style("stroke-width", 0.5/scale + "px");
     lines_group.selectAll(".line")
-               .style("stroke-width", 1.5/d3.event.scale + "px");
+               .style("stroke-width", 1.5/scale + "px");
     stations_group.selectAll("circle")
-                  .attr("r", 2.2/d3.event.scale + "px")
-                  .style("stroke-width", 1/d3.event.scale + "px");
+                  .attr("r", 2.2/scale + "px")
+                  .style("stroke-width", 1/scale + "px");
 
     // Format the labels.
     var sel = stations_group.selectAll(".label")
-                            .style("font-size", 9/d3.event.scale + "px");
-    format_labels(sel, d3.event.scale);
+                            .style("font-size", 9/scale + "px");
+    format_labels(sel);
 
     // Compute the opacity.
     var op = opmax;
