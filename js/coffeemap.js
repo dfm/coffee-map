@@ -83,7 +83,7 @@
                          sel.style("opacity", op).style("display", disp);
                        })
                        .on("click", function (d) {
-                         window.open("https://foursquare.com/v/"+grid[lazy][snob][d.ind],
+                         window.open("https://foursquare.com/v/"+all_venues[grid[lazy][snob][d.ind]].id,
                                      "_blank");
                        });
     g.append("circle");

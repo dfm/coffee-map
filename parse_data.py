@@ -33,8 +33,7 @@ for k, v in coords.iteritems():
 json.dump([{
     "type": "Feature", "line": l[:3].strip("."),
     "geometry": {"type": "LineString", "coordinates": v}
-} for l, v in final.iteritems()], open("data/shapes.json", "w"),
-indent=2)
+} for l, v in final.iteritems()], open("data/shapes.json", "w"))
 
 # Parse the station coordinates.
 stations = defaultdict(dict)
