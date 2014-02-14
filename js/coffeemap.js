@@ -49,6 +49,8 @@
   function draw () {
     if (nyc == null || lines == null || stations == null || all_venues == null || grid == null) return;
 
+    $("#subtitle").text("scroll to zoom & drag to move");
+
     // Draw the map.
     var boroughs = map_group.selectAll(".borough").data(nyc.features);
     boroughs.enter().append("path").attr("class", "borough");
