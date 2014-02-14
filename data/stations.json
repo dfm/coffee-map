@@ -144,7 +144,7 @@
     "name": "Elderts Lane-75th St"
   },
   {
-    "align": "rb",
+    "align": "rm",
     "latlng": [
       -74.006886,
       40.719318
@@ -1089,7 +1089,7 @@
     "name": "34th St"
   },
   {
-    "align": "lt",
+    "align": "lm",
     "latlng": [
       -73.987437,
       40.718315
@@ -1233,7 +1233,7 @@
     "name": "59th St"
   },
   {
-    "align": "rb",
+    "align": "rt",
     "latlng": [
       -74.000201,
       40.737826
@@ -1557,7 +1557,7 @@
     "name": "66th St-Lincoln Center"
   },
   {
-    "align": "lt",
+    "align": "lm",
     "latlng": [
       -74.000495,
       40.732338
@@ -1917,7 +1917,7 @@
     "name": "Cortlandt St"
   },
   {
-    "align": "rb",
+    "align": "lt",
     "latlng": [
       -74.007582,
       40.710374
@@ -1935,7 +1935,7 @@
     "name": "Lorimer St"
   },
   {
-    "align": "rb",
+    "align": "rm",
     "latlng": [
       -74.002578,
       40.739777
@@ -2052,7 +2052,7 @@
     "name": "Marble Hill-225th St"
   },
   {
-    "align": "lt",
+    "align": "rb",
     "latlng": [
       -73.993365,
       40.747215
@@ -2907,7 +2907,7 @@
     "name": "Bowery"
   },
   {
-    "align": "rb",
+    "align": "lt",
     "latlng": [
       -73.993753,
       40.718267
@@ -3240,7 +3240,7 @@
     "name": "Sheepshead Bay"
   },
   {
-    "align": "lb",
+    "align": "lt",
     "latlng": [
       -74.006571,
       40.709416
@@ -3492,7 +3492,7 @@
     "name": "Bay 50th St"
   },
   {
-    "align": "lt",
+    "align": "rm",
     "latlng": [
       -73.995657,
       40.744081
@@ -3537,7 +3537,7 @@
     "name": "14th St-Union Square"
   },
   {
-    "align": "rb",
+    "align": "rm",
     "latlng": [
       -74.00169,
       40.740893
@@ -3897,7 +3897,7 @@
     "name": "Borough Hall"
   },
   {
-    "align": "lt",
+    "align": "lb",
     "latlng": [
       -73.982076,
       40.746081
@@ -3924,7 +3924,7 @@
     "name": "Fort Hamilton Parkway"
   },
   {
-    "align": "lt",
+    "align": "lm",
     "latlng": [
       -73.984264,
       40.74307
@@ -3951,7 +3951,7 @@
     "name": "167th St"
   },
   {
-    "align": "rb",
+    "align": "rt",
     "latlng": [
       -74.009509,
       40.710368

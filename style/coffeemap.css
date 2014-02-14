@@ -45,6 +45,14 @@ body {
   opacity: 0.29536;
 }
 
+.outline {
+  fill: none;
+  stroke: #222;
+  stroke-width: 3px;
+  stroke-linejoin: round;
+  stroke-linecap: round;
+}
+
 .line {
   fill: none;
   stroke: #ccc;

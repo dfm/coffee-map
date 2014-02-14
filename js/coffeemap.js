@@ -41,7 +41,7 @@
   d3.json("data/shapes.json", function (error, value) { lines = value; draw(); });
   d3.json("data/stations.json", function (error, value) { stations = value; draw(); });
   d3.json("data/venues.json", function (error, value) { all_venues = value; draw(); });
-  d3.json("data/grid/600-1.json", function (error, value) { venues = value; draw(); });
+  d3.json("data/grid/900-3.json", function (error, value) { venues = value; draw(); });
 
   function draw () {
     if (nyc == null || lines == null || stations == null || all_venues == null || venues == null) return;
