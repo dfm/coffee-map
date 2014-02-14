@@ -31,11 +31,10 @@ for k, v in coords.iteritems():
         final[l] = v
 
 json.dump([{
-    "type": "Feature", "line": l[0],
+    "type": "Feature", "line": l[:3].strip("."),
     "geometry": {"type": "LineString", "coordinates": v}
 } for l, v in final.iteritems()], open("data/shapes.json", "w"),
 indent=2)
-print("sup")
 
 # Parse the station coordinates.
 stations = defaultdict(dict)

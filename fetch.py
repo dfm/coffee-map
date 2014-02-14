@@ -10,12 +10,11 @@ import requests
 from math import exp
 from functools import partial
 from operator import itemgetter
-from collections import defaultdict
 from itertools import izip, imap, product
 from values import FOURSQUARE_ID, FOURSQUARE_SECRET
 
 stations = json.load(open("data/stations.json"))
-all_results = defaultdict(list)
+all_results = [[[] for j in xrange(11)] for i in xrange(11)]
 all_venues = {}
 
 
@@ -42,8 +41,8 @@ for station in stations:
     # Send the request.
     r = requests.get(url, params=q, verify=False)
     if r.status_code != requests.codes.ok:
-        print("Waiting one minute after server failure...")
-        time.sleep(60)
+        print("Waiting for 3 minutes after server failure...")
+        time.sleep(3 * 60)
         r = requests.get(url, params=q, verify=False)
         if r.status_code != requests.codes.ok:
             r.raise_for_status()
@@ -64,12 +63,12 @@ for station in stations:
             })
 
     # Loop over hyperparameter settings and save the venues.
-    for d, r in product(xrange(300, 2000, 300), xrange(1, 8)):
-        v = sorted(izip(imap(partial(compute_score, d, r), places), places),
+    for d, r in product(reversed(xrange(11)), reversed(xrange(11))):
+        v = sorted(izip(imap(partial(compute_score, 300+d*160, 0.5*(r+1)),
+                             places), places),
                    key=itemgetter(0), reverse=True)[0][1]
         all_venues[v["id"]] = {"name": v["name"], "rating": v["rating"]}
-        all_results["{0}-{1}".format(d, r)].append(v["id"])
+        all_results[d][r].append(v["id"])
 
 json.dump(all_venues, open("data/venues.json", "w"))
-for k, v in all_results.iteritems():
-    json.dump(v, open("data/grid/{0}.json".format(k), "w"))
+json.dump(all_results, open("data/grid.json", "w"))

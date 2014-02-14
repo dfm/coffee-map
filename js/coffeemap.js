@@ -2,8 +2,10 @@
 
   "use strict";
 
+  var lazy = 11-4, snob = 11-6;
+
   var width = 800,
-      height = 600;
+      height = 500;
   var opmax = 0.8, opstart = 0.5, opwidth = 0.4;
 
   var projection = d3.geo.mercator()
@@ -36,16 +38,16 @@
       lines_group = features.append("g"),
       stations_group = features.append("g");
 
-  var nyc = null, lines = null, stations = null, all_venues = null, venues = null;
+  var nyc = null, lines = null, stations = null, all_venues = null, grid = null;
 
   d3.json("data/nyc.json", function(error, value) { nyc = value; draw(); });
   d3.json("data/shapes.json", function (error, value) { lines = value; draw(); });
   d3.json("data/stations.json", function (error, value) { stations = value; draw(); });
   d3.json("data/venues.json", function (error, value) { all_venues = value; draw(); });
-  d3.json("data/grid/900-3.json", function (error, value) { venues = value; draw(); });
+  d3.json("data/grid.json", function (error, value) { grid = value; draw(); });
 
   function draw () {
-    if (nyc == null || lines == null || stations == null || all_venues == null || venues == null) return;
+    if (nyc == null || lines == null || stations == null || all_venues == null || grid == null) return;
 
     // Draw the map.
     var boroughs = map_group.selectAll(".borough").data(nyc.features);
@@ -62,23 +64,27 @@
 
     // Draw the stations.
     var sel = stations_group.selectAll(".station").data(stations),
-        g = sel.enter().append("g").attr("class", "station");
-    g.append("circle")
-     .on("mouseover", function () {
-       var sel = d3.select(this.parentNode).select("text"),
-           op = sel.style("opacity"),
-           disp = sel.style("display");
-       sel.attr("data-opacity", op)
-          .attr("data-display", disp)
-          .style("opacity", 1)
-          .style("display", null);
-     })
-     .on("mouseout", function () {
-       var sel = d3.select(this.parentNode).select("text"),
-           op = sel.attr("data-opacity"),
-           disp = sel.attr("data-display");
-       sel.style("opacity", op).style("display", disp);
-     });
+        g = sel.enter().append("g").attr("class", "station")
+                       .on("mouseover", function () {
+                         var sel = d3.select(this).select("text"),
+                             op = sel.style("opacity"),
+                             disp = sel.style("display");
+                         sel.attr("data-opacity", op)
+                            .attr("data-display", disp)
+                            .style("opacity", 1)
+                            .style("display", null);
+                       })
+                       .on("mouseout", function () {
+                         var sel = d3.select(this).select("text"),
+                             op = sel.attr("data-opacity"),
+                             disp = sel.attr("data-display");
+                         sel.style("opacity", op).style("display", disp);
+                       })
+                       .on("click", function (d) {
+                         window.open("https://foursquare.com/v/"+grid[lazy][snob][d.ind],
+                                     "_blank");
+                       });
+    g.append("circle");
     g.append("text").attr("class", "label");
 
     sel.selectAll("circle")
@@ -92,7 +98,7 @@
   }
 
   function format_labels (sel) {
-    var scale = 1;
+    var scale = 1, venues = grid[lazy][snob];
     if (arguments.length > 1) scale = arguments[1];
     sel.attr("transform",
         function(d) {
@@ -147,5 +153,28 @@
     }
     sel.style("opacity", op).style("display", null);
   }
+
+  // Set up dials.
+  $("#lazy").knob({
+    "width": 70,
+    "height": 70,
+    "fgColor": "#222",
+    "bgColor": "#ccc",
+    "change": function (v) {
+      lazy = 11-v;
+      format_labels(stations_group.selectAll(".label"));
+    }
+  });
+
+  $("#snob").knob({
+    "width": 70,
+    "height": 70,
+    "fgColor": "#222",
+    "bgColor": "#ccc",
+    "change": function (v) {
+      snob = 11-v;
+      format_labels(stations_group.selectAll(".label"));
+    }
+  });
 
 })();
