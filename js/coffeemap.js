@@ -3,12 +3,13 @@
   "use strict";
 
   var width = 800,
-    height = 800;
+      height = 600;
+  var opmax = 0.8, opstart = 0.5, opwidth = 0.4;
 
   var projection = d3.geo.mercator()
-        .scale(92000)
+        .scale(460000)
         .translate([width / 2, height / 2])
-        .center([-73.86, 40.73])
+        .center([-73.97, 40.71])
         .precision(0.01);
 
   var path = d3.geo.path()
@@ -23,7 +24,7 @@
   var zoom = d3.behavior.zoom()
       .translate([0, 0])
       .scale(1)
-      .scaleExtent([1, 8])
+      .scaleExtent([0.15, 4])
       .on("zoom", zoomed);
   svg.append("rect")
       .attr("class", "overlay")
@@ -61,22 +62,27 @@
 
     // Draw the stations.
     var sel = stations_group.selectAll(".station").data(stations),
-        g = sel.enter().append("g").attr("class", "station")
-               .on("mouseover", function () {
-                 var sel = d3.select(this).select("text"),
-                     op = sel.style("opacity");
-                 sel.attr("data-opacity", op).style("opacity", 1);
-               })
-               .on("mouseout", function () {
-                 var sel = d3.select(this).select("text"),
-                     op = sel.attr("data-opacity");
-                 sel.style("opacity", op);
-               })
-    g.append("circle");
+        g = sel.enter().append("g").attr("class", "station");
+    g.append("circle")
+     .on("mouseover", function () {
+       var sel = d3.select(this.parentNode).select("text"),
+           op = sel.style("opacity"),
+           disp = sel.style("display");
+       sel.attr("data-opacity", op)
+          .attr("data-display", disp)
+          .style("opacity", 1)
+          .style("display", null);
+     })
+     .on("mouseout", function () {
+       var sel = d3.select(this.parentNode).select("text"),
+           op = sel.attr("data-opacity"),
+           disp = sel.attr("data-display");
+       sel.style("opacity", op).style("display", disp);
+     });
     g.append("text").attr("class", "label");
 
     sel.selectAll("circle")
-       .attr("r", 2)
+       .attr("r", 2.2)
        .attr("transform", function(d) {
          return "translate(" + projection(d.latlng) + ")";
        });
@@ -110,7 +116,7 @@
           return "middle";
         return "start";
        })
-       .text(function (d, i) { return all_venues[venues[i]].name; });
+       .text(function (d) { return all_venues[venues[d.ind]].name; });
   }
 
   function zoomed() {
@@ -122,13 +128,24 @@
     lines_group.selectAll(".line")
                .style("stroke-width", 1.5/d3.event.scale + "px");
     stations_group.selectAll("circle")
-                  .attr("r", 2/d3.event.scale + "px")
+                  .attr("r", 2.2/d3.event.scale + "px")
                   .style("stroke-width", 1/d3.event.scale + "px");
-    var op = 0.2+0.8/(1+Math.exp(3-d3.event.scale));
+
+    // Format the labels.
     var sel = stations_group.selectAll(".label")
-                            .style("font-size", 9/d3.event.scale + "px")
-                            .style("opacity", op);
+                            .style("font-size", 9/d3.event.scale + "px");
     format_labels(sel, d3.event.scale);
+
+    // Compute the opacity.
+    var op = opmax;
+    if (d3.event.scale < opstart) {
+      sel.style("display", "none");
+      return;
+    } else if (d3.event.scale < opstart+opwidth) {
+      var x = (d3.event.scale-opstart)/opwidth;
+      op *= x*x * (3-2*x);
+    }
+    sel.style("opacity", op).style("display", null);
   }
 
 })();

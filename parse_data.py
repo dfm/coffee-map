@@ -23,10 +23,10 @@ for line in open("raw/shapes.txt").readlines()[1:]:
 # Find the longest representation of the line.
 final = {}
 for k, v in coords.iteritems():
-    l = k[:3].strip(".")
     if k in ["A..S87R", "A..N86R", "5..S03R", "G..N13R"]:
         final[k] = v
         continue
+    l = k[:3].strip(".")
     if l not in final or len(v) > len(final[l]):
         final[l] = v
 
