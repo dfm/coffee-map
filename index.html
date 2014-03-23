@@ -17,15 +17,26 @@
 
 <div id="figure"></div>
 
+<div class="container">
+    <p>
+    This map shows the subway stations of the NYC labeled by "closest" and
+    "best" coffee shops (as determined by
+    <a href="https://foursquare.com">Foursquare</a> ratings). Turn the dials
+    below to tune the trade-off between distance and rating.
+    </p>
+</div>
+
 <div class="controls">
     <div class="control">
         <div class="control-text">Snob Factor</div>
         <input type="text" id="snob" class="dial" value="6" data-min="1" data-max="11" disabled>
+        <div class="control-setting" id="snob-text">pretty snobby</div>
     </div>
 
     <div class="control">
         <div class="control-text">Laziness Factor</div>
         <input type="text" id="lazy" class="dial" value="4" data-min="1" data-max="11" disabled>
+        <div class="control-setting" id="lazy-text">not so lazy</div>
     </div>
 </div>
 

@@ -159,26 +159,59 @@
   }
 
   // Set up dials.
+  var lazy_levels = [
+    "",
+    "you can walk to the curb"
+  ];
   $("#lazy").knob({
     "width": 70,
     "height": 70,
     "fgColor": "#222",
     "bgColor": "#ccc",
+    "release": function (v) {
+      lazy = 11-v;
+      format_labels(stations_group.selectAll(".label"));
+    },
+    "draw": function () {
+      $("#lazy-text").text(lazy_levels[this.cv-1]);
+    },
     "change": function (v) {
       lazy = 11-v;
       format_labels(stations_group.selectAll(".label"));
     }
   });
 
+  var snob_levels = [
+    "you run on Dunkin'",
+    "it gets the job done",
+    "quantity over quality",
+    "orange mocha frappacino!",
+    "you need an orange mocha frappacino to help you sort out all of these important issues",
+    "you don't feel weird about ordering a 'tall blonde'",
+    "you have a healthy respect for latte art",
+    "you only order off menu",
+    "<retracted> is working—guess you better order drip",
+    "Guatemalan > Ethiopian (except when AeroPressed)",
+    "did you mean 'San Francisco, CA'?"
+  ];
   $("#snob").knob({
     "width": 70,
     "height": 70,
     "fgColor": "#222",
     "bgColor": "#ccc",
+    "release": function (v) {
+      snob = 11-v;
+      format_labels(stations_group.selectAll(".label"));
+    },
+    "draw": function () {
+      $("#snob-text").text(snob_levels[this.cv-1]);
+    },
     "change": function (v) {
       snob = 11-v;
       format_labels(stations_group.selectAll(".label"));
     }
   });
+
+  $(".dial").trigger("change");
 
 })();
