@@ -1,0 +1,75 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+    <title>Coffee Map</title>
+    <link rel="stylesheet" href="../style/normalize.css" type="text/css" />
+    <link rel="stylesheet" href="../style/coffeemap.css" type="text/css" />
+
+</head>
+<body>
+
+<div class="container">
+    <h1>The Interactive NYC Coffee Map</h1>
+    <h2 id="subtitle">this may take a moment to load</h2>
+</div>
+
+<div id="figure"></div>
+
+<div class="container">
+    <p>
+    This map shows the subway stations of the NYC labeled by "closest" and
+    "best" coffee shops (as determined by
+    <a href="https://foursquare.com">Foursquare</a> ratings). Turn the dials
+    below to tune the trade-off between distance and rating.
+    </p>
+</div>
+
+<div class="controls">
+    <div class="control">
+        <div class="control-text">Snob Factor</div>
+        <input type="text" id="snob" class="dial" value="6" data-min="1" data-max="11" disabled>
+    </div>
+
+    <div class="control">
+        <div class="control-text">Laziness Factor</div>
+        <input type="text" id="lazy" class="dial" value="4" data-min="1" data-max="11" disabled>
+    </div>
+</div>
+
+<div class="container">
+    <p>
+    Made with love in Brooklyn, NY by <a href="http://dfm.io">Dan F-M</a>.
+    Inspired by <a href="http://bangalorebanerjee.blogspot.com/2014/02/nyc-best-coffee.html">The NYC Coffee Map</a>.<br>
+    Built with data from
+    <a href="http://web.mta.info/developers/download.html">the MTA</a>,
+    <a href="http://www.nyc.gov/html/dcp/html/bytes/applbyte.shtml">NYC</a>
+    (see <a href="https://github.com/dwillis/nyc-maps">here</a>), and
+    <a href="https://foursquare.com/">Foursquare</a>.<br>
+    <a href="https://github.com/dfm/coffee-map">Fork this project</a> on GitHub.
+    </p>
+</div>
+
+<script src="../js/d3.v3.min.js"></script>
+<script src="../js/topojson.v1.min.js"></script>
+<script src="../js/jquery-1.11.0.min.js"></script>
+<script src="../js/jquery.knob.js"></script>
+<script src="../js/coffeemap.js"></script>
+
+<script type="text/javascript">
+  var _gauges = _gauges || [];
+  (function() {
+    var t   = document.createElement('script');
+    t.type  = 'text/javascript';
+    t.async = true;
+    t.id    = 'gauges-tracker';
+    t.setAttribute('data-site-id', '52fdaa795dd0531d1a002733');
+    t.src = '//secure.gaug.es/track.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(t, s);
+  })();
+</script>
+
+</body>
+</html>

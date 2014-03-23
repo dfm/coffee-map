@@ -4,6 +4,8 @@
 from __future__ import (division, print_function, absolute_import,
                         unicode_literals)
 
+import os
+import sys
 import time
 import json
 import requests
@@ -27,12 +29,23 @@ def compute_score(d, r, v):
 # Set up the request.
 url = "https://api.foursquare.com/v2/venues/explore"
 q = dict(
-    section="coffee",
     limit=50,
     client_id=FOURSQUARE_ID,
     client_secret=FOURSQUARE_SECRET,
     v="20140212",
 )
+
+if len(sys.argv) >= 2:
+    q["query"] = " ".join(sys.argv[1:])
+    bp = "-".join(sys.argv[1:])
+else:
+    q["section"] = "coffee"
+    bp = "coffee"
+
+try:
+    os.makedirs(bp)
+except os.error:
+    pass
 
 for station in stations:
     print(station["name"])
@@ -74,5 +87,5 @@ for station in stations:
                                        "rating": v["rating"]}
         all_results[d][r].append(mapper[v["id"]])
 
-json.dump(all_venues, open("data/venues.json", "w"))
-json.dump(all_results, open("data/grid.json", "w"))
+json.dump(all_venues, open(os.path.join(bp, "venues.json"), "w"))
+json.dump(all_results, open(os.path.join(bp, "grid.json"), "w"))

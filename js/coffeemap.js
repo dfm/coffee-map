@@ -41,11 +41,11 @@
 
   var nyc = null, lines = null, stations = null, all_venues = null, grid = null;
 
-  d3.json("data/nyc.json", function(error, value) { nyc = value; draw(); });
-  d3.json("data/shapes.json", function (error, value) { lines = value; draw(); });
-  d3.json("data/stations.json", function (error, value) { stations = value; draw(); });
-  d3.json("data/venues.json", function (error, value) { all_venues = value; draw(); });
-  d3.json("data/grid.json", function (error, value) { grid = value; draw(); });
+  d3.json("../data/nyc.json", function(error, value) { nyc = value; draw(); });
+  d3.json("../data/shapes.json", function (error, value) { lines = value; draw(); });
+  d3.json("../data/stations.json", function (error, value) { stations = value; draw(); });
+  d3.json("venues.json", function (error, value) { all_venues = value; draw(); });
+  d3.json("grid.json", function (error, value) { grid = value; draw(); });
 
   function draw () {
     if (nyc == null || lines == null || stations == null || all_venues == null || grid == null) return;
@@ -159,10 +159,6 @@
   }
 
   // Set up dials.
-  var lazy_levels = [
-    "",
-    "you can walk to the curb"
-  ];
   $("#lazy").knob({
     "width": 70,
     "height": 70,
@@ -172,28 +168,12 @@
       lazy = 11-v;
       format_labels(stations_group.selectAll(".label"));
     },
-    "draw": function () {
-      $("#lazy-text").text(lazy_levels[this.cv-1]);
-    },
     "change": function (v) {
       lazy = 11-v;
       format_labels(stations_group.selectAll(".label"));
     }
   });
 
-  var snob_levels = [
-    "you run on Dunkin'",
-    "it gets the job done",
-    "quantity over quality",
-    "orange mocha frappacino!",
-    "you need an orange mocha frappacino to help you sort out all of these important issues",
-    "you don't feel weird about ordering a 'tall blonde'",
-    "you have a healthy respect for latte art",
-    "you only order off menu",
-    "<retracted> is working—guess you better order drip",
-    "Guatemalan > Ethiopian (except when AeroPressed)",
-    "did you mean 'San Francisco, CA'?"
-  ];
   $("#snob").knob({
     "width": 70,
     "height": 70,
@@ -202,9 +182,6 @@
     "release": function (v) {
       snob = 11-v;
       format_labels(stations_group.selectAll(".label"));
-    },
-    "draw": function () {
-      $("#snob-text").text(snob_levels[this.cv-1]);
     },
     "change": function (v) {
       snob = 11-v;
